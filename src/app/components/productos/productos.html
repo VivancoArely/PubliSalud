@@ -1,1 +1,36 @@
-<p>productos works!</p>
+<div class="container">
+  <table class="striped ">
+    <thead>
+      <tr>
+        <th>Id de Catalogo</th>
+        <th>Nombre</th>
+        <th  class="hide-on-med-and-down">Icono</th>
+        <th>Division</th>
+        <th>Marca</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let producto of paginatedProductos">
+        <td>{{ producto.idCatalogo }}</td>
+        <td>{{ producto.nombre }}</td>
+        <td class="hide-on-med-and-down"><img [src]="producto.icono" style="width:40px;height:40px;object-fit:contain"></td>
+        <td>{{ producto.division }}</td>
+        <td>{{ producto.marca }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<ul class="pagination center-align">
+  <li [class.disabled]="currentPage === 1">
+    <a (click)="prevPage()"><i class="material-icons">chevron_left</i></a>
+  </li>
+  <li *ngFor="let page of visiblePages"
+      [class.active]="page === currentPage"
+      [class.waves-effect]="page !== currentPage">
+    <a (click)="goToPage(page)">{{ page }}</a>
+  </li>
+  <li [class.disabled]="currentPage === totalPages">
+    <a (click)="nextPage()"><i class="material-icons">chevron_right</i></a>
+  </li>
+</ul>
