@@ -1,92 +1,62 @@
-<br />
-<br />
-<div class="row valign-wrapper" style="align-items: flex-end;">
-  <div class="col s12">
-    <div class="content-inline">
-      <div class="search-inline">
-        <input
-          [(ngModel)]="searchTerm"
-          (input)="onSearch()"
-          name="txtSearch"
-          class="search-inline--input"
-          placeholder="Buscar"
-        />
-      </div>
+
+<div class="row valign-wrapper" style="align-items: flex-end; margin-bottom: 0;">
+  <div class="col s12 m6 l6 xl6 botones">
+    <div class="search-inline">
+      <input
+        [(ngModel)]="searchTerm"
+        (input)="onSearch()"
+        name="txtSearch"
+        class="search-inline--input"
+        placeholder="Buscar"
+      />
     </div>
   </div>
+  <div class="col s12 m6 l6 xl6 input-field derecha" style="margin-top: 0;">
+    <label>Filtrar por marca</label>
+    <select multiple [(ngModel)]="marcaFilter" (ngModelChange)="onMarcaChange()" name="marcaSelect">
+       
+        <option value="BIO-RAD">BIO-RAD</option>
+      <option value="INOCHEM">Euroimmun</option>
+      <option value="WIENER">Wiener Lab</option>
+      <option value="IDLAB">IDLAB</option>
+    </select>
+    
   </div>
+</div>
+
+<div class="row botones" style="display: flex; flex-wrap: wrap; gap: 6px; padding: 0 12px; margin-bottom: 8px;">
+  <a class="waves-effect waves-light btn-small light-green accent-4"
+     [style.opacity]="divisionFilter && divisionFilter !== 'SISTEMAS CLINICOS' ? '0.4' : '1'"
+     (click)="toggleDivision('SISTEMAS CLINICOS')">Sistemas Clínicos</a>
+  <a class="waves-effect waves-light btn-small yellow accent-4"
+     [style.opacity]="divisionFilter && divisionFilter !== 'ENFERMEDADES INFECCIOSAS' ? '0.4' : '1'"
+     (click)="toggleDivision('ENFERMEDADES INFECCIOSAS')">Enf. Infecciosa</a>
+  <a class="waves-effect waves-light btn-small deep-purple accent-1"
+     [style.opacity]="divisionFilter && divisionFilter !== 'CONTROL DE CALIDAD' ? '0.4' : '1'"
+     (click)="toggleDivision('CONTROL DE CALIDAD')">Control de Calidad</a>
+  <a class="waves-effect waves-light btn-small red darken-3"
+     [style.opacity]="divisionFilter && divisionFilter !== 'INMUNOHEMATOLOGÍA' ? '0.4' : '1'"
+     (click)="toggleDivision('INMUNOHEMATOLOGÍA')">Inmunohematología</a>
+  <a class="waves-effect waves-light btn-small cyan darken-1"
+     [style.opacity]="divisionFilter && divisionFilter !== 'DIAGNÓSTICO AUTOINMUNE' ? '0.4' : '1'"
+     (click)="toggleDivision('DIAGNÓSTICO AUTOINMUNE')">Diag. Autoinmune</a>
+  <a class="waves-effect waves-light btn-small orange darken-2"
+     [style.opacity]="divisionFilter && divisionFilter !== 'BACTERIOLOGÍA' ? '0.4' : '1'"
+     (click)="toggleDivision('BACTERIOLOGÍA')">Bacteriología</a>
+  <a class="waves-effect waves-light btn-small blue-grey darken-1"
+     [style.opacity]="divisionFilter && divisionFilter !== 'EQUIPOS' ? '0.4' : '1'"
+     (click)="toggleDivision('EQUIPOS')">Equipos</a>
+</div>
+
 <div class="row center-align">
-  <!-- Mitad izquierda: botones -->
-  <div class="col s12 m6 l6">
-    <div class="row">
-      <div class="col s6 m4">
-        <a class="waves-effect waves-light btn-small light-green accent-4"
-           [style.opacity]="divisionFilter && divisionFilter !== 'SISTEMAS CLINICOS' ? '0.4' : '1'"
-           (click)="toggleDivision('SISTEMAS CLINICOS')">Sistemas Clínicos</a>
-      </div>
-      <div class="col s6 m4">
-        <a class="waves-effect waves-light btn-small yellow accent-4"
-           [style.opacity]="divisionFilter && divisionFilter !== 'ENFERMEDADES INFECCIOSAS' ? '0.4' : '1'"
-           (click)="toggleDivision('ENFERMEDADES INFECCIOSAS')">Enf. Infecciosa</a>
-      </div>
-      <div class="col s6 m4">
-        <a class="waves-effect waves-light btn-small deep-purple accent-1"
-           [style.opacity]="divisionFilter && divisionFilter !== 'CONTROL DE CALIDAD' ? '0.4' : '1'"
-           (click)="toggleDivision('CONTROL DE CALIDAD')">Control de Calidad</a>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col s6 m4">
-        <a class="waves-effect waves-light btn-small red darken-3"
-           [style.opacity]="divisionFilter && divisionFilter !== 'INMUNOHEMATOLOGÍA' ? '0.4' : '1'"
-           (click)="toggleDivision('INMUNOHEMATOLOGÍA')">Inmunohematología</a>
-      </div>
-      <div class="col s6 m4">
-        <a class="waves-effect waves-light btn-small cyan darken-1"
-           [style.opacity]="divisionFilter && divisionFilter !== 'DIAGNÓSTICO AUTOINMUNE' ? '0.4' : '1'"
-           (click)="toggleDivision('DIAGNÓSTICO AUTOINMUNE')">Diag. Autoinmune</a>
-      </div>
-      <div class="col s6 m4">
-        <a class="waves-effect waves-light btn-small orange darken-2"
-           [style.opacity]="divisionFilter && divisionFilter !== 'BACTERIOLOGÍA' ? '0.4' : '1'"
-           (click)="toggleDivision('BACTERIOLOGÍA')">Bacteriología</a>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col s6 m4">
-        <a class="waves-effect waves-light btn-small blue-grey darken-1"
-           [style.opacity]="divisionFilter && divisionFilter !== 'EQUIPOS' ? '0.4' : '1'"
-           (click)="toggleDivision('EQUIPOS')">Equipos</a>
-      </div>
-    </div>
-  </div>
-
-  <!-- Mitad derecha: select más corto -->
-  <div class="col s12 m6 l6">
-    <div class="row">
-      <div class="col s8 offset-s2 input-field">
-        <select multiple [(ngModel)]="marcaFilter" (ngModelChange)="onMarcaChange()" name="marcaSelect">
-          <option value="BIO-RAD">BIO-RAD</option>
-          <option value="INOCHEM">Euroimmun</option>
-          <option value="WIENER">Wiener Lab</option>
-          <option value="IDLAB">IDLAB</option>
-        </select>
-        <label>Filtrar por marca</label>
-      </div>
-    </div>
-  </div>
-
-
-
-
   <div class="container">
     <table class="striped">
       <thead>
         <tr>
-          <th>Id de Catalogo</th>
+          <th>Id</th>
           <th>Nombre</th>
-          <th class="hide-on-med-and-down">Icono</th>
-          <th>Division</th>
+          <th class="hide-on-med-and-down"></th>
+          <th>División</th>
           <th>Marca</th>
         </tr>
       </thead>
@@ -119,3 +89,7 @@
       <a (click)="nextPage()"><i class="material-icons">chevron_right</i></a>
     </li>
   </ul>
+</div>
+  <div class="divider"></div>
+<app-elegir></app-elegir>
+<app-footer></app-footer>

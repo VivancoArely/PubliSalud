@@ -13,6 +13,7 @@ import { Historia } from './components/historia/historia';
 import { Mision } from './components/mision/mision';
 import { Nosotros } from './components/nosotros/nosotros';
 import { Productos } from './components/productos/productos';
+import { Elegir } from './components/elegir/elegir';
 
 @NgModule({
   declarations: [
@@ -26,6 +27,7 @@ import { Productos } from './components/productos/productos';
     Mision,
     Nosotros,
     Productos,
+    Elegir,
   ],
   imports: [BrowserModule, AppRoutingModule, FormsModule],
   providers: [provideBrowserGlobalErrorListeners()],

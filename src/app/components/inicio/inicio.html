@@ -5,7 +5,7 @@
     <div class="slider">
       <ul class="slides">
         <li *ngFor="let item of encabezado">
-          <img class="responsive-img img-normal hide-on-med-and-down" [src]="item.img" />
+          <img class="responsive-img img-normal " [src]="item.img" />
           <img class="responsive-img img-med" [src]="item.imgMed" />
           <!-- random image -->
           <div [ngClass]="item.lado">
@@ -18,7 +18,7 @@
             <br />
             <!--a class="waves-effect waves-light btn-large z-depth-4">{{item.btn |uppercase}}</a-->
             <div class="wrapper" [ngStyle]="item.estilo">
-              <a class="cta" [routerLink]="[ '/productos' ]" routerLinkActive="active">
+              <a class="cta" [routerLink]="[ '/contacto' ]" routerLinkActive="active">
                 <span>COTIZAR</span>
                 <span>
                   <svg
@@ -60,5 +60,5 @@
 
 <app-counter></app-counter>
 <app-carousel></app-carousel>
-
+<app-elegir></app-elegir>
 <app-footer></app-footer>

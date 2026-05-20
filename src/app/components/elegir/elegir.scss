@@ -1,0 +1,133 @@
+
+section{
+  background-color: #eceff1;
+}
+
+ h1.titulo {
+    font-weight: 700;
+    color: #191970;
+     
+    font-family: "Open Sans", sans-serif;
+    margin-top: -10px
+}
+
+h4{
+   font-weight: 600;
+    color: #191970;
+       
+    font-family: "Open Sans", sans-serif;
+
+}
+.verde{
+    color: #76b753;
+    font-weight: 700;
+}
+
+@media screen and (min-width: 992px) {
+
+.derecha{
+    margin-left: 120px!important;
+}}
+
+@media screen and (max-width: 992px) {
+  .container-fluid .row.valign-wrapper {
+    flex-wrap: wrap;
+  }
+ 
+}
+
+
+
+  /* From Uiverse.io by adamgiebl */ 
+.cssbuttons-io-button {
+  background: #76b753;
+  color: #191970;
+   font-family: "Open Sans", sans-serif;
+  padding: 0.35em;
+  padding-left: 1.2em;
+  font-size: 25px;
+  font-weight: 500;
+  border-radius: 0.9em;
+  border: none;
+  letter-spacing: 0.05em;
+  display: flex;
+  align-items: center;
+  box-shadow: inset 0 0 1.6em -0.6em #76b753;
+  overflow: hidden;
+  position: relative;
+  height: 2.8em;
+  padding-right: 3.3em;
+  cursor: pointer;
+}
+
+.cssbuttons-io-button .icon {
+  background: white;
+  margin-left: 1em;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 2.2em;
+  width: 2.2em;
+  border-radius: 0.7em;
+  box-shadow: 0.1em 0.1em 0.6em 0.2em #eceff1;
+  right: 0.3em;
+  transition: all 0.3s;
+}
+
+.cssbuttons-io-button:hover .icon {
+  width: calc(100% - 0.6em);
+}
+
+.cssbuttons-io-button .icon svg {
+  width: 1.1em;
+  transition: transform 0.3s;
+  color: #191970;
+}
+
+.cssbuttons-io-button:hover .icon svg {
+  transform: translateX(0.1em);
+}
+
+.cssbuttons-io-button:active .icon {
+  transform: scale(0.95);
+}
+
+
+
+//video
+.parallax {
+  background-image: url('/assets/img/fondo/7.png');
+  min-height: 600px;
+     background-attachment: fixed;/* 👈 clave para el efecto */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.contenido {
+  position: relative;
+  text-align: center;
+  
+  padding: 10px 50px;
+}
+
+
+@font-face {
+    font-family: PUBLISALUD;
+    src: url(/assets/fonts/UniversityRomanBold.OTF);
+}
+ h2 {
+    font-weight: 600;
+    color:  #eceff1;
+      font-family: "Open Sans", sans-serif;
+   margin-bottom: 1px; 
+   font-size: 27px;
+  text-transform: uppercase;
+  padding-bottom: 10px;
+}
+
+//mision
+
+
