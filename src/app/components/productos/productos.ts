@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component, AfterViewInit} from '@angular/core';
+declare var M:any
 
 @Component({
   selector: 'app-productos',
@@ -6,8 +7,54 @@ import { Component } from '@angular/core';
   templateUrl: './productos.html',
   styleUrl: './productos.scss',
 })
-export class Productos {
+export class Productos  implements AfterViewInit {
+  ngAfterViewInit(): void {
+   var elems = document.querySelectorAll('select');
+    var instances = M.FormSelect.init(elems);
+  }
   productos=[
+    {
+    "idCatalogo": "01",
+    "nombre": "CENTRIFUGA",
+    "icono": "/assets/img/Equipos.png",
+    "division": "EQUIPOS",
+    "marca": "BIO-RAD"
+  },
+  {
+    "idCatalogo": "02",
+    "nombre": "D10",
+    "icono": "/assets/img/Equipos.png",
+    "division": "EQUIPOS",
+    "marca": "BIO-RAD"
+  },
+  {
+    "idCatalogo": "03",
+    "nombre": "D100",
+    "icono": "/assets/img/Equipos.png",
+    "division": "EQUIPOS",
+    "marca": "BIO-RAD"
+  },
+  {
+    "idCatalogo": "04",
+    "nombre": "EVOLIS",
+    "icono": "/assets/img/Equipos.png",
+    "division": "EQUIPOS",
+    "marca": "BIO-RAD"
+  },
+  {
+    "idCatalogo": "05",
+    "nombre": "INCUBADOR",
+    "icono": "/assets/img/Equipos.png",
+    "division": "EQUIPOS",
+    "marca": "BIO-RAD"
+  },
+  {
+    "idCatalogo": "06",
+    "nombre": "VARIANT",
+    "icono": "/assets/img/Equipos.png",
+    "division": "EQUIPOS",
+    "marca": "BIO-RAD"
+  },
    
   {
     "idCatalogo": "12000949",
@@ -6046,42 +6093,42 @@ export class Productos {
   {
     "idCatalogo": "PT-34",
     "nombre": "MULTIBAC PARA BACTERIAS GRAM (+)",
-    "icono": "/assets/img/default.png",
+    "icono": "/assets/img/bacteria.png",
     "division": "BACTERIOLOGÍA",
     "marca": "IDLAB"
   },
   {
     "idCatalogo": "PT-35",
     "nombre": "MULTIBAC PARA BACTERIAS GRAM (-)",
-    "icono": "/assets/img/default.png",
+    "icono": "/assets/img/bacteria.png",
     "division": "BACTERIOLOGÍA",
     "marca": "IDLAB"
   },
   {
     "idCatalogo": "PT-36",
     "nombre": "MULTIBAC CON ANTIBIOTICOS COMBINADOS",
-    "icono": "/assets/img/default.png",
+    "icono": "/assets/img/bacteria.png",
     "division": "BACTERIOLOGÍA",
     "marca": "IDLAB"
   },
   {
     "idCatalogo": "PT-37",
     "nombre": "SUSPIBAC A",
-    "icono": "/assets/img/default.png",
+    "icono": "/assets/img/bacteria.png",
     "division": "BACTERIOLOGÍA",
     "marca": "IDLAB"
   },
   {
     "idCatalogo": "PT-38",
     "nombre": "SUSPIBAC PN",
-    "icono": "/assets/img/default.png",
+    "icono": "/assets/img/bacteria.png",
     "division": "BACTERIOLOGÍA",
     "marca": "IDLAB"
   },
   {
     "idCatalogo": "PT-39",
     "nombre": "SUSPIBAC OXI",
-    "icono": "/assets/img/default.png",
+    "icono": "/assets/img/bacteria.png",
     "division": "BACTERIOLOGÍA",
     "marca": "IDLAB"
   }
@@ -6090,14 +6137,31 @@ export class Productos {
 
   pageSize = 15;
   currentPage = 1;
+  searchTerm = '';
+  divisionFilter: string | null = null;
+  marcaFilter: string[] = [];
+
+  get filteredProductos() {
+    const term = this.searchTerm.toLowerCase().trim();
+    return this.productos.filter(p => {
+      const matchesSearch = !term ||
+        p.idCatalogo.toLowerCase().includes(term) ||
+        p.nombre.toLowerCase().includes(term) ||
+        p.division.toLowerCase().includes(term) ||
+        p.marca.toLowerCase().includes(term);
+      const matchesDivision = !this.divisionFilter || p.division === this.divisionFilter;
+      const matchesMarca = this.marcaFilter.length === 0 || this.marcaFilter.includes(p.marca);
+      return matchesSearch && matchesDivision && matchesMarca;
+    });
+  }
 
   get paginatedProductos() {
     const start = (this.currentPage - 1) * this.pageSize;
-    return this.productos.slice(start, start + this.pageSize);
+    return this.filteredProductos.slice(start, start + this.pageSize);
   }
 
   get totalPages(): number {
-    return Math.ceil(this.productos.length / this.pageSize);
+    return Math.ceil(this.filteredProductos.length / this.pageSize);
   }
 
   get visiblePages(): number[] {
@@ -6107,6 +6171,13 @@ export class Productos {
     return Array.from({ length: end - start + 1 }, (_, i) => start + i);
   }
 
+  toggleDivision(division: string): void {
+    this.divisionFilter = this.divisionFilter === division ? null : division;
+    this.currentPage = 1;
+  }
+
+  onSearch(): void { this.currentPage = 1; }
+  onMarcaChange(): void { this.currentPage = 1; }
   prevPage(): void { if (this.currentPage > 1) this.currentPage--; }
   nextPage(): void { if (this.currentPage < this.totalPages) this.currentPage++; }
   goToPage(page: number): void { this.currentPage = page; }
