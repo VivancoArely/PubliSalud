@@ -1,0 +1,52 @@
+@font-face {
+    font-family: PUBLISALUD;
+    src: url(/assets/fonts/UniversityRomanBold.OTF);
+}
+
+.brand-logo{
+font-family: PUBLISALUD;
+font-size:x-large;
+font-weight: bolder;
+
+}
+
+img{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+
+.colorBlanco{
+
+    background-color: #eceff1;
+}
+
+a{
+    color: #191970!important;
+}
+
+.img-med {
+  display: none;
+}
+
+@media only screen and (max-width: 992px) {
+ img .img-normal {
+    display: none;
+  }
+ img .img-med {
+    display: block;
+  }
+}
+
+.navbar-fixed{
+    background-color: #191970!important;
+}
+
+
+.background{
+    height: 83px;
+}
+
+li .fa-solid i{
+    color:  #eceff1;
+}

@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+.container {
+	max-width: 1100px;
+	margin: 0 auto;
+	overflow: auto;
+  
+}
+
+
+
+
+.counters {
+	background: #191970;
+	color: #fff;
+	padding: 40px 20px;
+  border-radius: 20px;
+  flex: 1 1 0;
+  min-width: 200px;
+}
+
+.counters .container {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 300px;
+	text-align: center;
+  
+}
+
+.counters i {
+	font-size: xx-large;
+	margin-bottom: 5px;
+ 
+
+}
+
+.counters .counter {
+	font-size: 45px;
+	margin: 10px 0;
+  
+}
+
+@media (max-width: 700px) {
+	.counters .container {
+		grid-template-columns: repeat(1, 1fr);
+	}
+
+	.counters .container > div:nth-of-type(1),
+	.counters .container > div:nth-of-type(2) {
+		border-bottom: 1px lightskyblue solid;
+		padding-bottom: 20px;
+	}
+}
+
+
+//paralax
+.parallax {
+  background-image: url('/assets/img/fondo/7.2.png');
+  min-height: 600px;
+     background-attachment: fixed;/* 👈 clave para el efecto */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.contenido {
+  position: relative;
+  padding-top: 120px!important;
+  padding: 10px 10px;
+}
+.center-align {
+  position: relative;
+}
+
+.center-align > .row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: stretch;
+  gap: 20px;
+  padding: 0 15px;
+  padding-bottom: 15px;
+}
+
+//
+ h2 {
+    font-weight: 600;
+    font-size: 45px;
+    text-align: left;
+    
+    color: #eceff1;
+   margin-bottom: 50px; 
+   margin-top: -50px;
+
+   font-family: "Open Sans", sans-serif;
+   text-transform: uppercase;
+}
+@media screen and (min-width: 992px) {
+  h2{
+    margin-left: 180px !important;
+  }
+   h4{
+    margin-right: 200px !important;
+    text-justify: left!important;
+  }
+}
+
+h4{
+  margin-top: -50px;
+  text-align: left;
+    color: #eceff1;
+   
+   margin-bottom: 50px; 
+    font-family: "Open Sans", sans-serif;
+}
+
+.azul{
+    color: #76b753;
+    font-weight: 700;
+}
+
+
+a{
+  font-weight: 600;
+    font-size: 65px!important;
+     font-family: "Open Sans", sans-serif;
+   text-transform: uppercase;
+    color: #eceff1;
+
+
+}
+
+
+h6{
+  
+  padding-left: 50px!important;
+   font-family: "Open Sans", sans-serif;
+}
+h5{
+   font-weight: 600;
+    font-size: 32px;
+     font-family: "Open Sans", sans-serif;
+   text-transform: uppercase;
+}
+.verde{
+   font-weight: 800;
+    font-size: 80px;
+     font-family: "Open Sans", sans-serif;
+   text-transform: uppercase;
+    color: #76b753;
+}
+
+.verdes{
+  font-weight: 800;
+    font-size: 50px;
+    padding-top: 10px!important;
+     font-family: "Open Sans", sans-serif;
+   text-transform: uppercase;
+    color: #76b753;
+}
+
+span .blanco{
+   font-weight: 600;
+    font-size: 65px!important;
+     font-family: "Open Sans", sans-serif;
+   text-transform: uppercase;
+    color: #eceff1!important;
+
+}
+
+
+
+
+
+@font-face {
+    font-family: PUBLISALUD;
+    src: url(/assets/fonts/UniversityRomanBold.OTF);
+}
+
+
+
+.publisalud {
+   font-family: "PUBLISALUD";
+  
+}

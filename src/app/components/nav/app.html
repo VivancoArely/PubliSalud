@@ -1,0 +1,32 @@
+  <div class="navbar-fixed">
+     <nav class="colorBlanco">
+      <div class="nav-wrapper">
+        <a href="#!" class="brand-logo"><img src="assets/img/logo.png" class="hide-on-small-only" alt=""> PUBLISALUD</a>
+        <a href="#" data-target="slide-out" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+        <ul class="right hide-on-med-and-down">
+        <li><a [routerLink]="[ '/inicio' ]" routerLinkActive="active">INICIO</a></li>
+          <li><a [routerLink]="['/nosotros']" routerLinkActive="active">NOSOTROS</a></li>
+          <!--li><a [routerLink]="['/cotizaciones']" routerLinkActive="">Cotizaciones</a></li-->
+          <li><a [routerLink]="[ '/productos' ]" routerLinkActive="active">PRODUCTOS</a></li>
+          <li><a [routerLink]="['/contacto']" routerLink="active" >CONTACTO</a></li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+
+  <ul id="slide-out" class="sidenav">
+    <li><div class="user-view">
+      <div class="background light-blue darken-4">
+        <!--img src="/img/FondoSideNav.png"-->
+      </div>
+      <a href="#user"><img class="circle" src="assets/img/LOGOS128/4.png"></a>
+    </div></li>
+     <li><a [routerLink]="[ '/inicio' ]" routerLinkActive="active"><i class="fa-solid fa-house"></i>INICIO</a></li>
+          <li><a [routerLink]="['/nosotros']" routerLinkActive="active"><i class="fa-solid fa-file-contract"></i>NOSOTROS</a></li>
+          <!--li><a [routerLink]="['/cotizaciones']" routerLinkActive=""><i class="fa-solid fa-file-contract"></i>Cotizaciones</a></li-->
+          <li><a [routerLink]="[ '/productos' ]" routerLinkActive="active"><i class="fa-solid fa-vial-circle-check"></i>PRODUCTOS</a></li>
+          <li><a [routerLink]="['/contacto']" routerLink="active"><i class="fa-solid fa-handshake"></i>CONTACTO</a></li>
+    
+  </ul>
+   <router-outlet></router-outlet>
+
