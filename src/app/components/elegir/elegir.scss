@@ -1,6 +1,10 @@
 
 section{
   background-color: #eceff1;
+
+  .row {
+    margin-bottom: 0;
+  }
 }
 
  h1.titulo {
@@ -30,10 +34,9 @@ h4{
 }}
 
 @media screen and (max-width: 992px) {
-  .container-fluid .row.valign-wrapper {
+  .row.valign-wrapper {
     flex-wrap: wrap;
   }
- 
 }
 
 
@@ -131,3 +134,8 @@ h4{
 //mision
 
 
+@media screen  and (max-width: 600px) {
+    h1{
+        font-size: 42px!important;
+    }
+}

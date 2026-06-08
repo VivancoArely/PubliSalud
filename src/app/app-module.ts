@@ -14,6 +14,7 @@ import { Mision } from './components/mision/mision';
 import { Nosotros } from './components/nosotros/nosotros';
 import { Productos } from './components/productos/productos';
 import { Elegir } from './components/elegir/elegir';
+import { Equiposlider } from './components/equiposlider/equiposlider';
 
 @NgModule({
   declarations: [
@@ -28,6 +29,7 @@ import { Elegir } from './components/elegir/elegir';
     Nosotros,
     Productos,
     Elegir,
+    Equiposlider,
   ],
   imports: [BrowserModule, AppRoutingModule, FormsModule],
   providers: [provideBrowserGlobalErrorListeners()],

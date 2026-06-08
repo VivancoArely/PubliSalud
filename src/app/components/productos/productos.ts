@@ -5346,728 +5346,728 @@ export class Productos  implements AfterViewInit {
     "nombre": "Virus Zika IgM",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2668-9601 G",
     "nombre": "Virus Zika IgG",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 266B-9601 M",
     "nombre": "Virus Elisa Dengue (DENV) IgM",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 266B-9601 G",
     "nombre": "Virus Elisa Dengue (DENV) IgG",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2610-9601 M",
     "nombre": "Virus del sarampión IgM.",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2610-9601 G",
     "nombre": "Virus del sarampión IgG",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2532-9601-2 M",
     "nombre": "Virus del herpes simple 2 (HSV-2) IgM",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2532-9601-2 G",
     "nombre": "Virus del herpes simple 2 (HSV-2) IgG",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2531-9601-2 G",
     "nombre": "Virus del herpes simple 1 (HSV-1) IgG",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2531-9601-1 M",
     "nombre": "Virus del herpes simple (HSV-1/2 Pool)",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2630-9601 M",
     "nombre": "Virus de las paperas incluido: absorbent",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2630-9601 G",
     "nombre": "Virus de las paperas",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2650-9601 G",
     "nombre": "Virus de la varicela zoster (VZV)",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2650-9601 M",
     "nombre": "Virus de la varicela zoster (VZV)",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2650-9601 M",
     "nombre": "Virus de la varicela zoster (VZV)",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2590-9601 G",
     "nombre": "Virus de la rubeola IgG",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2590-9601 M",
     "nombre": "Virus de la rub‚ola incl. Absorbente de",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2525-9601 G",
     "nombre": "Virus de la hepatitis E (HEV)",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2525-9601 M",
     "nombre": "Virus de la hepatitis E (HEV)",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2795-9601 A",
     "nombre": "Virus de Epstein-Barr Antígeno temprano",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2795-9601 G",
     "nombre": "Virus Anti-Epstein-Barr",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 266A-9601-1 G",
     "nombre": "Virus anti-dengue tipo 1-4",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 266A-9601-1 M",
     "nombre": "Virus anti-dengue tipo 1-4",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2111-9601 O",
     "nombre": "Treponema pallidum",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2410-9601 M",
     "nombre": "Toxoplasma gondii IGM",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2410-9601 G",
     "nombre": "Toxoplasma gondii IGG",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2050-9601 A",
     "nombre": "Toxina de Bordetella pertussis",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2050-9601 G",
     "nombre": "Toxina de Bordetella pertussis",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2606-9601 A",
     "nombre": "SARS-CoV-2 IgA",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2606-9601-2 M",
     "nombre": "SARS CoV 2 NCP",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2202-9601 G",
     "nombre": "Mycoplasma pneumoniae",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2202-9601 M",
     "nombre": "Mycoplasma pneumoniae",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2531-9601-2 M",
     "nombre": "Herpes simplex virus 1 IgM",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2080-9601 G",
     "nombre": "Helicobacter pylori IgG",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2080-9601 A",
     "nombre": "Helicobacter pylori IgA",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2081-9601 A",
     "nombre": "Helicobacter pylori (CagA) IgA",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2590-9601-1 G",
     "nombre": "Determinación avidez  virus rubéola",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2191-9601 A",
     "nombre": "Clamidia trachomatis",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2191-9601 G",
     "nombre": "Clamidia trachomatis",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2191-9601 M",
     "nombre": "Clamidia trachomatis",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2570-9601 M",
     "nombre": "Citomegalovirus (CMV) IGM",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2570-9601 G",
     "nombre": "Citomegalovirus (CMV) IGG",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2570-9601-L G",
     "nombre": "Citomegalovirus (CMV)",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2189-9601 M",
     "nombre": "Brucella abortus incl. Absorbente de IgG",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2189-9601 G",
     "nombre": "Brucella abortus",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2132-9601-2 G",
     "nombre": "Borrelia plus VIsE",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2132-9601 M",
     "nombre": "Borrelia incl. Absorbente de IgG / RF",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2132-9601-24 O",
     "nombre": "Borrelia burgdorferi VlsE and OspC",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2050-9601 M",
     "nombre": "Bordetella pertussis",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2212-9601 G",
     "nombre": "Anti-Trypanosoma cruzi Elisa IgG",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2311-9601 G",
     "nombre": "Anti-Toxocara IgG",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2606-9601-10 G",
     "nombre": "Anti-SARS-CoV-2 QuantiVac ELISA (IgG)",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2580-9601 M",
     "nombre": "Anti-Parvovirus B19 IgM",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2580-9601 G",
     "nombre": "Anti-Parvovirus B19 IgG",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2580-9601 G",
     "nombre": "Anti-Parvovirus B19 IgG",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2793-9601 G",
     "nombre": "Antígeno nuclear de Epstein-Barr",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2791-9601 G",
     "nombre": "Antígeno de la capside de Epstein-Barr",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2791-9601 M",
     "nombre": "Antígeno de la capside de Epstein Barr",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 293A-9601 M",
     "nombre": "Anti-Chikungunya virus (CHIKV) IgM",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 293A-9601 G",
     "nombre": "Anti-Chikungunya virus (CHIKV) IgG",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2791-9601-L G",
     "nombre": "Ant¡geno de la cápside del virus Epstein",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2791-9601-1 G",
     "nombre": "Ant¡geno de la c pside del virus de Epst",
     "icono": "/assets/img/EnfermedadesInfecciosas.png",
     "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1910-9601 A",
     "nombre": "Transglutaminasa tisular [endomisio]",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1910-9601 G",
     "nombre": "Transglutaminasa tisular [endomisio]",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1597-9601 G",
     "nombre": "SS-B (La)",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1595-9601 G",
     "nombre": "SS-A (Ro)",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1593-9601 G",
     "nombre": "Sm",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1599-9601 G",
     "nombre": "Scl-70",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 151A-4802 G",
     "nombre": "Sa",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1254-9601 G",
     "nombre": "Receptor de fosfolipasa A2 [PLA2R]",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1435-9601 G",
     "nombre": "Receptor de acetilcolina",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1641-9601 G",
     "nombre": "Proteínas P ribosomales",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1505-9601 G",
     "nombre": "Péptidos cíclicos citrulinados (CCP)",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1211-9601 G",
     "nombre": "pANCA: mieloperoxidasa (MPO)",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1574-9601 G",
     "nombre": "Nucleosomas",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1591-9601 G",
     "nombre": "nRNP / Sm",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1251-9601 G",
     "nombre": "Membrana del sótano glomerular [GBM]",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1661-9601 G",
     "nombre": "Jo-1",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1560-9601 G",
     "nombre": "Histonas",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1321-9601 G",
     "nombre": "H¡gado Riñón microsomas LKM-1",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1022-9601 G",
     "nombre": "Gad",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1814-9601 M",
     "nombre": "Factor reumatoide IgM",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1814-9601 G",
     "nombre": "Factor reumatoide IgG",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1814-9601 A",
     "nombre": "Factor reumatoide IgA",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1362-9601",
     "nombre": "Factor intrínseco",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1572-9601 G",
     "nombre": "dsDNA-NcX",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1818-9601 G",
     "nombre": "Complejos inmunes circulantes (CIC)",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1611-9601 G",
     "nombre": "Centrómeros",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1621-9601 M",
     "nombre": "Cardiolipina (AMA M1) IgM",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1621-9601 G",
     "nombre": "Cardiolipina (AMA M1) IgG",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1621-9601 A",
     "nombre": "Cardiolipina (AMA M1) IgA",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1201-9601-2 G",
     "nombre": "cANCA: proteinasa 3 [PR3-hn-hr]",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1632-9601 G",
     "nombre": "B2-glucoproteína 1 IgG",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1632-9601 A",
     "nombre": "B2-glucoproteína 1 IgA",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1632-9601 M",
     "nombre": "B2-Glicoproteína IgM",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1590-9601-7 G",
     "nombre": "Anti-ENA PoolPlus",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1590-1208-2 G",
     "nombre": "Anti-ENA Perfil Plus 2",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1590-1208-1 G",
     "nombre": "Anti-ENA Perfil plus 1",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 159Z-9601 G",
     "nombre": "Anti-DFS70",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1947-4801 G",
     "nombre": "Anti-col geno tipo VII",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1590-9601-8 G",
     "nombre": "ANA screen 8",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1622-9601 G",
     "nombre": "AMA M2-3E",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1576-9601 G",
     "nombre": "ADN monocatenario (ADNss)",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EA 1571-9601 G",
     "nombre": "ADN bicatenario (dsDNA)",
     "icono": "/assets/img/default.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "INOCHEM"
+    "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "1293205",
