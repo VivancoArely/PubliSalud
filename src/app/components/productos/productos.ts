@@ -9,8 +9,7 @@ declare var M:any
 })
 export class Productos  implements AfterViewInit {
   ngAfterViewInit(): void {
-   var elems = document.querySelectorAll('select');
-    var instances = M.FormSelect.init(elems);
+    M.FormSelect.init(document.querySelectorAll('select'));
   }
   productos=[
     {
@@ -6176,6 +6175,8 @@ export class Productos  implements AfterViewInit {
     this.currentPage = 1;
   }
 
+  sidenavOpen = false;
+  toggleSidenav(): void { this.sidenavOpen = !this.sidenavOpen; }
   onSearch(): void { this.currentPage = 1; }
   onMarcaChange(): void { this.currentPage = 1; }
   toggleMarca(marca: string): void {

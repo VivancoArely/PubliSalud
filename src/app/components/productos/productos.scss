@@ -93,6 +93,92 @@
     }
 }
 
+.pagination li.active {
+    background-color: #7ed957 !important;
+
+    a {
+        color: #fff !important;
+    }
+}
+
+.sidebar-mobile-header {
+    display: none;
+}
+
+.btn-filtros-fab {
+    display: none;
+}
+
+@media screen and (max-width: 992px) {
+    .layout-filtros-tabla {
+        display: block;
+        padding: 8px 12px;
+    }
+
+    .sidebar-filtros {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 1000;
+        border-radius: 0;
+        overflow-y: auto;
+        padding-top: 0;
+
+        &.sidebar-open {
+            display: block;
+        }
+    }
+
+    .sidebar-mobile-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 12px 4px 16px;
+        border-bottom: 1px solid #eceff1;
+        margin-bottom: 8px;
+
+        span {
+            font-family: "Open Sans", sans-serif;
+            font-size: 16px;
+            font-weight: 700;
+            text-transform: uppercase;
+            color: #191970;
+        }
+    }
+
+    .sidebar-close-btn {
+        background: none;
+        border: none;
+        cursor: pointer;
+        color: #191970;
+        padding: 4px;
+        display: flex;
+        align-items: center;
+    }
+
+    .btn-filtros-fab {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: fixed;
+        bottom: 24px;
+        right: 24px;
+        width: 56px;
+        height: 56px;
+        border-radius: 50%;
+        background-color: #191970;
+        color: #fff;
+        border: none;
+        cursor: pointer;
+        box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
+        font-size: 20px;
+        z-index: 999;
+    }
+}
+
     th {
         font-size: 16px;
       font-family: "Open Sans", sans-serif;
@@ -113,5 +199,13 @@ table.striped {
 
   th, td {
     border: 1px solid #b0bec5;
+  }
+
+  tbody tr:nth-child(odd) {
+    background-color: #dce8f5;
+  }
+
+  tbody tr:nth-child(even) {
+    background-color: #ffffff;
   }
 }

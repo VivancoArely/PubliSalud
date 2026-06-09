@@ -1,8 +1,18 @@
 <app-equiposlider></app-equiposlider>
 
+<button class="btn-filtros-fab" (click)="toggleSidenav()">
+  <i class="fa-solid fa-sliders"></i>
+</button>
+
 <div class="layout-filtros-tabla">
   <!-- Sidebar de filtros (1/3) -->
-  <aside class="sidebar-filtros">
+  <aside class="sidebar-filtros" [class.sidebar-open]="sidenavOpen">
+    <div class="sidebar-mobile-header">
+      <span>Filtros</span>
+      <button class="sidebar-close-btn" (click)="toggleSidenav()">
+        <i class="material-icons">close</i>
+      </button>
+    </div>
     <div class="filtro-seccion">
       <div class="filtro-titulo">Buscar</div>
       <div class="search-inline">
