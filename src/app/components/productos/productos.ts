@@ -6178,6 +6178,13 @@ export class Productos  implements AfterViewInit {
 
   onSearch(): void { this.currentPage = 1; }
   onMarcaChange(): void { this.currentPage = 1; }
+  toggleMarca(marca: string): void {
+    const idx = this.marcaFilter.indexOf(marca);
+    this.marcaFilter = idx === -1
+      ? [...this.marcaFilter, marca]
+      : this.marcaFilter.filter(m => m !== marca);
+    this.currentPage = 1;
+  }
   prevPage(): void { if (this.currentPage > 1) this.currentPage--; }
   nextPage(): void { if (this.currentPage < this.totalPages) this.currentPage++; }
   goToPage(page: number): void { this.currentPage = page; }
