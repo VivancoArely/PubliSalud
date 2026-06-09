@@ -15,6 +15,7 @@ import { Nosotros } from './components/nosotros/nosotros';
 import { Productos } from './components/productos/productos';
 import { Elegir } from './components/elegir/elegir';
 import { Equiposlider } from './components/equiposlider/equiposlider';
+import { Catalogo } from './components/catalogo/catalogo';
 
 @NgModule({
   declarations: [
@@ -30,6 +31,7 @@ import { Equiposlider } from './components/equiposlider/equiposlider';
     Productos,
     Elegir,
     Equiposlider,
+    Catalogo,
   ],
   imports: [BrowserModule, AppRoutingModule, FormsModule],
   providers: [provideBrowserGlobalErrorListeners()],
