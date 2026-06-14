@@ -1,4 +1,9 @@
-<app-equiposlider></app-equiposlider>
+@if (marca === 'BIO-RAD') {
+  <app-equipos-br></app-equipos-br>
+}
+@if (marca === 'EUROIMMUN') {
+  <app-equiposlider></app-equiposlider>
+}
 
 <button class="btn-filtros-fab" (click)="toggleSidenav()">
   <i class="fa-solid fa-sliders"></i>
@@ -52,6 +57,30 @@
           <span>IDLAB</span>
         </label>
       </p>
+      <p>
+        <label>
+          <input type="checkbox" [checked]="marcaFilter.includes('DiaMetra')" (change)="toggleMarca('DiaMetra')" />
+          <span>DiaMetra</span>
+        </label>
+      </p>
+      <p>
+        <label>
+          <input type="checkbox" [checked]="marcaFilter.includes('Theradiag')" (change)="toggleMarca('Theradiag')" />
+          <span>Theradiag</span>
+        </label>
+      </p>
+      <p>
+        <label>
+          <input type="checkbox" [checked]="marcaFilter.includes('Dimeditec')" (change)="toggleMarca('Dimeditec')" />
+          <span>Dimeditec</span>
+        </label>
+      </p>
+      <p>
+        <label>
+          <input type="checkbox" [checked]="marcaFilter.includes('GenieAll')" (change)="toggleMarca('GenieAll')" />
+          <span>GenieAll</span>
+        </label>
+      </p>
     </div>
 
     <div class="filtro-seccion">
@@ -89,7 +118,7 @@
         <tr>
           <th>Id</th>
           <th>Nombre</th>
-          <th class="hide-on-med-and-down"></th>
+          <!--th class="hide-on-med-and-down"></th-->
           <th>División</th>
           <th>Marca</th>
         </tr>
@@ -98,9 +127,9 @@
         <tr *ngFor="let producto of paginatedProductos">
           <td>{{ producto.idCatalogo }}</td>
           <td>{{ producto.nombre }}</td>
-          <td class="hide-on-med-and-down">
+          <!--td class="hide-on-med-and-down">
             <img [src]="producto.icono" style="width: 40px; height: 40px; object-fit: contain" />
-          </td>
+          </td-->
           <td>{{ producto.division }}</td>
           <td>{{ producto.marca }}</td>
         </tr>
@@ -127,4 +156,9 @@
 
 <div class="divider"></div>
 <app-elegir></app-elegir>
+@if (marca !== 'BIO-RAD' && marca !== 'EUROIMMUN') {
+  <div class="divider"></div>
+  <app-equipos-br></app-equipos-br>
+  <app-equiposlider></app-equiposlider>
+}
 <app-footer></app-footer>

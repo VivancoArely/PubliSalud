@@ -7,12 +7,30 @@
         <li><a [routerLink]="[ '/inicio' ]" routerLinkActive="active">INICIO</a></li>
           <li><a [routerLink]="['/nosotros']" routerLinkActive="active">NOSOTROS</a></li>
           <!--li><a [routerLink]="['/cotizaciones']" routerLinkActive="">Cotizaciones</a></li-->
-          <li><a [routerLink]="[ '/productos' ]" routerLinkActive="active">PRODUCTOS</a></li>
-          <li><a [routerLink]="['/contacto']" routerLink="active" >CONTACTO</a></li>
+          <li>
+            <a class="dropdown-trigger nav-dropdown-trigger" href="#!" data-target="productos-dropdown">
+              PRODUCTOS<i class="material-icons nav-arrow">arrow_drop_down</i>
+            </a>
+          </li>
+          <li><a [routerLink]="['/contacto']" routerLinkActive="active">CONTACTO</a></li>
         </ul>
       </div>
     </nav>
   </div>
+
+  <!-- Dropdown Productos -->
+  <ul id="productos-dropdown" class="dropdown-content">
+    <li><a [routerLink]="['/productos']" [queryParams]="{marca: 'BIO-RAD'}">BIO-RAD</a></li>
+    <li><a [routerLink]="['/productos']" [queryParams]="{marca: 'EUROIMMUN'}">EUROIMMUN</a></li>
+    <li><a [routerLink]="['/productos']" [queryParams]="{marca: 'WIENER'}">WIENER LAB</a></li>
+    <li><a [routerLink]="['/productos']" [queryParams]="{marca: 'IDLAB'}">IDLAB</a></li>
+    <li><a [routerLink]="['/productos']" [queryParams]="{marca: 'DiaMetra'}">DIAMETRA</a></li>
+    <li><a [routerLink]="['/productos']" [queryParams]="{marca: 'Theradiag'}">THERADIAG</a></li>
+    <li><a [routerLink]="['/productos']" [queryParams]="{marca: 'Dimeditec'}">DIMEDITEC</a></li>
+    <li><a [routerLink]="['/productos']" [queryParams]="{marca: 'GenieAll'}">GENIEALL</a></li>
+    <li class="divider"></li>
+    <li><a [routerLink]="['/productos']">TODOS</a></li>
+  </ul>
 
   <ul id="slide-out" class="sidenav">
     <li><div class="user-view">
@@ -25,8 +43,16 @@
           <li><a [routerLink]="['/nosotros']" routerLinkActive="active"><i class="fa-solid fa-file-contract"></i>NOSOTROS</a></li>
           <!--li><a [routerLink]="['/cotizaciones']" routerLinkActive=""><i class="fa-solid fa-file-contract"></i>Cotizaciones</a></li-->
           <li><a [routerLink]="[ '/productos' ]" routerLinkActive="active"><i class="fa-solid fa-vial-circle-check"></i>PRODUCTOS</a></li>
-          <li><a [routerLink]="['/contacto']" routerLink="active"><i class="fa-solid fa-handshake"></i>CONTACTO</a></li>
-    
+          <li class="sidenav-sub"><a [routerLink]="['/productos']" [queryParams]="{marca: 'BIO-RAD'}">BIO-RAD</a></li>
+          <li class="sidenav-sub"><a [routerLink]="['/productos']" [queryParams]="{marca: 'EUROIMMUN'}">EUROIMMUN</a></li>
+          <li class="sidenav-sub"><a [routerLink]="['/productos']" [queryParams]="{marca: 'WIENER'}">WIENER LAB</a></li>
+          <li class="sidenav-sub"><a [routerLink]="['/productos']" [queryParams]="{marca: 'IDLAB'}">IDLAB</a></li>
+          <li class="sidenav-sub"><a [routerLink]="['/productos']" [queryParams]="{marca: 'DiaMetra'}">DIAMETRA</a></li>
+          <li class="sidenav-sub"><a [routerLink]="['/productos']" [queryParams]="{marca: 'Theradiag'}">THERADIAG</a></li>
+          <li class="sidenav-sub"><a [routerLink]="['/productos']" [queryParams]="{marca: 'Dimeditec'}">DIMEDITEC</a></li>
+          <li class="sidenav-sub"><a [routerLink]="['/productos']" [queryParams]="{marca: 'GenieAll'}">GENIEALL</a></li>
+          <li class="sidenav-sub"><a [routerLink]="['/productos']">TODOS</a></li>
+          <li><a [routerLink]="['/contacto']" routerLinkActive="active"><i class="fa-solid fa-handshake"></i>CONTACTO</a></li>
+
   </ul>
    <router-outlet></router-outlet>
-

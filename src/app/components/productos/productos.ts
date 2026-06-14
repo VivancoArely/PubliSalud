@@ -1,4 +1,5 @@
-import { Component, AfterViewInit} from '@angular/core';
+import { Component, AfterViewInit, OnInit } from '@angular/core';
+import { ActivatedRoute } from '@angular/router';
 declare var M:any
 
 @Component({
@@ -7,7 +8,20 @@ declare var M:any
   templateUrl: './productos.html',
   styleUrl: './productos.scss',
 })
-export class Productos  implements AfterViewInit {
+export class Productos implements AfterViewInit, OnInit {
+  constructor(private route: ActivatedRoute) {}
+
+  marca: string = '';
+
+  ngOnInit(): void {
+    this.route.queryParams.subscribe(params => {
+      const marca = params['marca'];
+      this.marca = marca || '';
+      this.marcaFilter = marca ? [marca] : [];
+      this.currentPage = 1;
+    });
+  }
+
   ngAfterViewInit(): void {
     M.FormSelect.init(document.querySelectorAll('select'));
   }
@@ -6130,6 +6144,573 @@ export class Productos  implements AfterViewInit {
     "icono": "/assets/img/bacteria.png",
     "division": "BACTERIOLOGÍA",
     "marca": "IDLAB"
+  },
+  {
+    "idCatalogo": "DK0044",
+    "nombre": "T3",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "DiaMetra"
+  },
+  {
+    "idCatalogo": "DK0053",
+    "nombre": "T3 libre",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "DiaMetra"
+  },
+  {
+    "idCatalogo": "DK0045",
+    "nombre": "T4",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "DiaMetra"
+  },
+  {
+    "idCatalogo": "DK0038",
+    "nombre": "T4 libre",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "DiaMetra"
+  },
+  {
+    "idCatalogo": "DK0013",
+    "nombre": "TSH",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "DiaMetra"
+  },
+  {
+    "idCatalogo": "DK0053",
+    "nombre": "Aldosterona",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "DiaMetra"
+  },
+  {
+    "idCatalogo": "DK0087",
+    "nombre": "SHBG",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "DiaMetra"
+  },
+  {
+    "idCatalogo": "DK0012",
+    "nombre": "Alfafetoproteina",
+    "icono": "/assets/img/MarcadoresTumorales.png",
+    "division": "Marcadores Tumorales",
+    "marca": "DiaMetra"
+  },
+  {
+    "idCatalogo": "DK0048",
+    "nombre": "Tiroglobulina",
+    "icono": "/assets/img/MarcadoresTumorales.png",
+    "division": "Marcadores Tumorales",
+    "marca": "DiaMetra"
+  },
+  {
+    "idCatalogo": "DK0051",
+    "nombre": "CEA",
+    "icono": "/assets/img/MarcadoresTumorales.png",
+    "division": "Marcadores Tumorales",
+    "marca": "DiaMetra"
+  },
+  {
+    "idCatalogo": "DK0054",
+    "nombre": "CA 125",
+    "icono": "/assets/img/MarcadoresTumorales.png",
+    "division": "Marcadores Tumorales",
+    "marca": "DiaMetra"
+  },
+  {
+    "idCatalogo": "DK0055",
+    "nombre": "CA 15-3",
+    "icono": "/assets/img/MarcadoresTumorales.png",
+    "division": "Marcadores Tumorales",
+    "marca": "DiaMetra"
+  },
+  {
+    "idCatalogo": "DK0056",
+    "nombre": "CA 19-9",
+    "icono": "/assets/img/MarcadoresTumorales.png",
+    "division": "Marcadores Tumorales",
+    "marca": "DiaMetra"
+  },
+  {
+    "idCatalogo": "DK0073",
+    "nombre": "h-NSE",
+    "icono": "/assets/img/MarcadoresTumorales.png",
+    "division": "Marcadores Tumorales",
+    "marca": "DiaMetra"
+  },
+  {
+    "idCatalogo": "DK0137",
+    "nombre": "PSA Total",
+    "icono": "/assets/img/MarcadoresTumorales.png",
+    "division": "Marcadores Tumorales",
+    "marca": "DiaMetra"
+  },
+  {
+    "idCatalogo": "DK0138",
+    "nombre": "PSA libre",
+    "icono": "/assets/img/MarcadoresTumorales.png",
+    "division": "Marcadores Tumorales",
+    "marca": "DiaMetra"
+  },
+  {
+    "idCatalogo": "DK0114",
+    "nombre": "Cribado de Anticuerpos Anti-fosfolipidos",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "DiaMetra"
+  }, 
+  {
+    "idCatalogo": "LTV 005",
+    "nombre": "Vedolizumab",
+    "icono": "/assets/img/LisaTracker.png",
+    "division": "LISA - TRACKER",
+    "marca": "Theradiag"
+  },
+  {
+    "idCatalogo": "LTC 005",
+    "nombre": "Certolizumab",
+    "icono": "/assets/img/LisaTracker.png",
+    "division": "LISA - TRACKER",
+    "marca": "Theradiag"
+  },
+  {
+    "idCatalogo": "LTA 005",
+    "nombre": "Adalimumab",
+    "icono": "/assets/img/LisaTracker.png",
+    "division": "LISA - TRACKER",
+    "marca": "Theradiag"
+  },
+  {
+    "idCatalogo": "LTB 006",
+    "nombre": "Bevacizumab",
+    "icono": "/assets/img/LisaTracker.png",
+    "division": "LISA - TRACKER",
+    "marca": "Theradiag"
+  },
+  {
+    "idCatalogo": "LTI 005",
+    "nombre": "Infliximab",
+    "icono": "/assets/img/LisaTracker.png",
+    "division": "LISA - TRACKER",
+    "marca": "Theradiag"
+  },
+  {
+    "idCatalogo": "DE2924",
+    "nombre": "Testosterona Libre",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "Dimeditec"
+  },
+  {
+    "idCatalogo": "DEH3322",
+    "nombre": "17-OH-Progesterona",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "Dimeditec"
+  },
+  {
+    "idCatalogo": "DEH3344",
+    "nombre": "DHEA",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "Dimeditec"
+  },
+  {
+    "idCatalogo": "DE3265",
+    "nombre": "Androstenediona",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "Dimeditec"
+  },
+  {
+    "idCatalogo": "DEE8100",
+    "nombre": "Metanefrina en Plasma",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "Dimeditec"
+  },
+  {
+    "idCatalogo": "DEE007",
+    "nombre": "Leptin",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "Dimeditec"
+  },
+  {
+    "idCatalogo": "DE5761",
+    "nombre": "Dihidrotestosterona (DHT)",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "Dimeditec"
+  },
+  {
+    "idCatalogo": "DEE1900",
+    "nombre": "5-HIAA ELISA",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "Dimeditec"
+  },
+  {
+    "idCatalogo": "DEE8900",
+    "nombre": "Serotonina ELISA",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "Dimeditec"
+  },
+  {
+    "idCatalogo": "DE7430",
+    "nombre": "Anticuerpos anti-insulina",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "Dimeditec"
+  },
+  {
+    "idCatalogo": "DE7470",
+    "nombre": "Cribado de Anticuerpos anti -fosfolipidos (IgG/IgM)",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "Dimeditec"
+  },
+  {
+    "idCatalogo": "100-01",
+    "nombre": "Secretoneurina",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "Dimeditec"
+  },
+  {
+    "idCatalogo": "DEE6600",
+    "nombre": "3-CAT ELISA",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "Dimeditec"
+  },
+  {
+    "idCatalogo": "DE4434",
+    "nombre": "INF-gamma humano",
+    "icono": "/assets/img/Citocinas.png",
+    "division": "Citocinas",
+    "marca": "Dimeditec"
+  },
+  {
+    "idCatalogo": "DE4640",
+    "nombre": "Interleucina-6 humana (IL-6)",
+    "icono": "/assets/img/Citocinas.png",
+    "division": "Citocinas",
+    "marca": "Dimeditec"
+  },
+  {
+    "idCatalogo": "DE4641",
+    "nombre": "TNF-alfa humano",
+    "icono": "/assets/img/Citocinas.png",
+    "division": "Citocinas",
+    "marca": "Dimeditec"
+  },
+  {
+    "idCatalogo": "DE4700",
+    "nombre": "Interleucina-8 humana ELISA",
+    "icono": "/assets/img/Citocinas.png",
+    "division": "Citocinas",
+    "marca": "Dimeditec"
+  },
+  {
+    "idCatalogo": "DEASCG0020",
+    "nombre": "Ascaris lumbricoides (IgG)",
+    "icono": "/assets/img/DiagnosticoInfeccioso.png",
+    "division": "Diagnóstico Infeccioso",
+    "marca": "Dimeditec"
+  },
+  {
+    "idCatalogo": "DETAEG0420",
+    "nombre": "Taenia solium (IgG)",
+    "icono": "/assets/img/DiagnosticoInfeccioso.png",
+    "division": "Diagnóstico Infeccioso",
+    "marca": "Dimeditec"
+  },
+  {
+    "idCatalogo": "DETRIG0480",
+    "nombre": "Trichinella spiralis (IgG)",
+    "icono": "/assets/img/DiagnosticoInfeccioso.png",
+    "division": "Diagnóstico Infeccioso",
+    "marca": "Dimeditec"
+  },
+  {
+    "idCatalogo": "DENO0114",
+    "nombre": "Chagas (Trypanosoma cruzi) (IgG)",
+    "icono": "/assets/img/DiagnosticoInfeccioso.png",
+    "division": "Diagnóstico Infeccioso",
+    "marca": "Dimeditec"
+  },
+  {
+    "idCatalogo": "DE4247",
+    "nombre": "Epstein-Barr Virus (EBNA-1) (IgM)",
+    "icono": "/assets/img/DiagnosticoInfeccioso.png",
+    "division": "Diagnóstico Infeccioso",
+    "marca": "Dimeditec"
+  },
+  {
+    "idCatalogo": "302-103",
+    "nombre": "Ribospin vRD",
+    "icono": "/assets/img/Molecular.png",
+    "division": "Molecular",
+    "marca": "GenieAll"
+  },
+  {
+    "idCatalogo": "901-048A | 901-096A",
+    "nombre": "GENTiTM Kit avanzado de extracción de AND genómico a partir de varias muestras clínicas incluyendo tejidos.",
+    "icono": "/assets/img/Molecular.png",
+    "division": "Molecular",
+    "marca": "GenieAll"
+  },
+  {
+    "idCatalogo": "902-048 | 902-096",
+    "nombre": "GENTiTM Viral ADN/ARN Kit avanzado de extracción de ADN y ARN viral, junto con el equipo de extracción automática avanzada GENTiTM basado en perlas magnéticas.",
+    "icono": "/assets/img/Molecular.png",
+    "division": "Molecular",
+    "marca": "GenieAll"
+  },
+  {
+    "idCatalogo": "903-048A | 903-096A",
+    "nombre": "GENTiTM Kit avanzado de extracción de ADN sanguíneo a partir de sangre entera, plasma, suero, capa leucocitaria, fluido libre de células, fluidos corporales, muestras de sangre infectadas con virus o hisopados.",
+    "icono": "/assets/img/Molecular.png",
+    "division": "Molecular",
+    "marca": "GenieAll"
+  },
+  {
+    "idCatalogo": "108-101 | 108-152 | 108-226 | 108-201 | 108-310 | 108-326",
+    "nombre": "Exgene Clinic SV Kit para el aislamiento de ADN total (genómico, mitocondrial, bacterial, parásitos o ADN viral) de tejidos, sangre entera o fluidos corporales.",
+    "icono": "/assets/img/Molecular.png",
+    "division": "Molecular",
+    "marca": "GenieAll"
+  },
+  {
+    "idCatalogo": "IS-4600",
+    "nombre": "IDS Cortisol",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-4620",
+    "nombre": "IDS Set Calibrador de Cortisol",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-5130",
+    "nombre": "IDS-iSYS 17-OH Progesterona (Set de control)",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-5100",
+    "nombre": "IDS-iSYS 17-OH Progesterona",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-5130",
+    "nombre": "IDS-iSYS 17-OH Progesterona (Kit)",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-3700",
+    "nombre": "IDS-iSYS Hormona del crecimiento humana (hGH)",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-5300",
+    "nombre": "IDS-iSYS Testosterona libre",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-3900",
+    "nombre": "IDS-iSYS Factor de crecimiento semejante a la insulina tipo I (IGF-I)",
+    "icono": "/assets/img/Endocrinologia.png",
+    "division": "Endocrinología",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-ID5001",
+    "nombre": "IDS TOXO IgG",
+    "icono": "/assets/img/DiagnosticoInfeccioso.png",
+    "division": "Diagnóstico Infeccioso",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-ID5002",
+    "nombre": "IDS TOXO IgM",
+    "icono": "/assets/img/DiagnosticoInfeccioso.png",
+    "division": "Diagnóstico Infeccioso",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-AI1002",
+    "nombre": "IDS Cribado de ENA",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-AI1801",
+    "nombre": "IDS Anticuerpos Anti-mitocondriales (AMA-M2)",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-AI1901",
+    "nombre": "IDS Anticuerpos Anti-tiroglobulina (anti-Tg)",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-AI1109",
+    "nombre": "IDS Jo-1",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-AI1110",
+    "nombre": "IDS Centrómero B",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-AI1108",
+    "nombre": "IDS Anticuerpos Anti-Scl-70",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-AI1302",
+    "nombre": "IDS Gliadina Desamidada IgG",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-AI1108",
+    "nombre": "IDS Gliadina Desamidada IgM",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-AI1103",
+    "nombre": "IDS SS-A-Ro 52 kDa",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-AI1104",
+    "nombre": "IDS SS-A-Ro 60kDa",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-5330",
+    "nombre": "Set de control de testosterona gratuito",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-4630",
+    "nombre": "Set de control de cortisol",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-AI1030",
+    "nombre": "Set de control de pantalla IDS ANA",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-AI1501",
+    "nombre": "IDS Cardiolipina IgG",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-AI1502",
+    "nombre": "IDS β2-Glicoproteína I IgG",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-AI1601",
+    "nombre": "IDS Cardiolipina IgM",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-AI1602",
+    "nombre": "IDS β2-Glicoproteína I IgM",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-AI1105",
+    "nombre": "IDS SS-B-La",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-AI1101",
+    "nombre": "IDS dsDNA IgG",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-AI1902",
+    "nombre": "IDS Anticuerpos Antiperoxidasa Tiroidea Anti-TPO",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-AI1401",
+    "nombre": "IDS t-TG IgG",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "ids"
+  },
+  {
+    "idCatalogo": "IS-AI1303",
+    "nombre": "IDS t-TG IgA",
+    "icono": "/assets/img/DiagnosticoAutoinmune.png",
+    "division": "DIAGNÓSTICO AUTOINMUNE",
+    "marca": "ids"
   }
 
   ];

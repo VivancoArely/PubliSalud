@@ -50,3 +50,38 @@ a{
 li .fa-solid i{
     color:  #eceff1;
 }
+
+/* Dropdown navbar */
+.nav-dropdown-trigger {
+  display: flex;
+  align-items: center;
+}
+
+.nav-arrow {
+  font-size: 20px;
+  margin-left: 2px;
+  vertical-align: middle;
+  line-height: inherit;
+}
+
+.dropdown-content li > a {
+  color: #191970 !important;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+/* Sidenav sub-items de marcas */
+.sidenav .sidenav-sub > a {
+  padding-left: 56px !important;
+  font-size: 13px !important;
+  height: 36px;
+  line-height: 36px;
+  color: #444 !important;
+  font-weight: 500;
+}
+
+.sidenav .sidenav-sub > a:hover {
+  background-color: #e8eaf6;
+  color: #191970 !important;
+}

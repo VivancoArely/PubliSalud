@@ -9,8 +9,11 @@ declare var M:any
 })
 export class App implements AfterViewInit {
   ngAfterViewInit(): void {
-     var elems = document.querySelectorAll('.sidenav');
-    var instances = M.Sidenav.init(elems);
+    var elems = document.querySelectorAll('.sidenav');
+    M.Sidenav.init(elems);
+
+    var dropdowns = document.querySelectorAll('.dropdown-trigger');
+    M.Dropdown.init(dropdowns, { coverTrigger: false });
   }
   protected readonly title = signal('PubliSalud');
 }
