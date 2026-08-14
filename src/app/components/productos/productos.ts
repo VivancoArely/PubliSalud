@@ -6082,69 +6082,2348 @@ export class Productos implements AfterViewInit, OnInit {
     "division": "DIAGNÓSTICO AUTOINMUNE",
     "marca": "EUROIMMUN"
   },
+  
+  {
+    "idCatalogo": "1073151",
+    "nombre": "ASO Látex",
+    "division": "Pruebas de Látex",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1103152",
+    "nombre": "Artitest directo",
+    "division": "Pruebas de Látex",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1683152",
+    "nombre": "PCR Látex directo",
+    "division": "Pruebas de Látex",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1723096",
+    "nombre": "HIV 1+2 ELISA (3ª Generación)",
+    "division": "Banco de Sangre",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1723451",
+    "nombre": "HIV Ag/Ac ELISA (4a Generación)",
+    "division": "Banco de Sangre",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1483254",
+    "nombre": "HBsAg ELISA",
+    "division": "Banco de Sangre",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1483258",
+    "nombre": "HCV ELISA 3a Generación",
+    "division": "Banco de Sangre",
+    "marca": "Wiener Lab"
+  },
   {
     "idCatalogo": "1293205",
-    "nombre": "Chagatest HAI *",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "WIENER"
+    "nombre": "Chagatest HAI",
+    "division": "Banco de Sangre",
+    "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1293096",
-    "nombre": "Chagatest ELISA lisado *",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "WIENER"
+    "nombre": "Chagatest ELISA lisado",
+    "division": "Banco de Sangre",
+    "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1293257",
-    "nombre": "Chagatest ELISA recombinante V.4.0 *",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
-    "marca": "WIENER"
+    "nombre": "Chagatest ELISA recombinante V.4.0",
+    "division": "Banco de Sangre",
+    "marca": "Wiener Lab"
   },
   {
-    "idCatalogo": "PT-34",
-    "nombre": "MULTIBAC PARA BACTERIAS GRAM (+)",
-    "icono": "/assets/img/bacteria.png",
-    "division": "BACTERIOLOGÍA",
-    "marca": "IDLAB"
+    "idCatalogo": "1060010",
+    "nombre": "T. cruzi DNA Test",
+    "division": "Banco de Sangre",
+    "marca": "Wiener Lab"
   },
   {
-    "idCatalogo": "PT-35",
-    "nombre": "MULTIBAC PARA BACTERIAS GRAM (-)",
-    "icono": "/assets/img/bacteria.png",
-    "division": "BACTERIOLOGÍA",
-    "marca": "IDLAB"
+    "idCatalogo": "1853153",
+    "nombre": "V.D.R.L. test (incluye controles)",
+    "division": "Banco de Sangre",
+    "marca": "Wiener Lab"
   },
   {
-    "idCatalogo": "PT-36",
-    "nombre": "MULTIBAC CON ANTIBIOTICOS COMBINADOS",
-    "icono": "/assets/img/bacteria.png",
-    "division": "BACTERIOLOGÍA",
-    "marca": "IDLAB"
+    "idCatalogo": "1853154",
+    "nombre": "RPR slide test",
+    "division": "Banco de Sangre",
+    "marca": "Wiener Lab"
   },
   {
-    "idCatalogo": "PT-37",
-    "nombre": "SUSPIBAC A",
-    "icono": "/assets/img/bacteria.png",
-    "division": "BACTERIOLOGÍA",
-    "marca": "IDLAB"
+    "idCatalogo": "1723452",
+    "nombre": "Sífilis ELISA V.4.0",
+    "division": "Banco de Sangre",
+    "marca": "Wiener Lab"
   },
   {
-    "idCatalogo": "PT-38",
-    "nombre": "SUSPIBAC PN",
-    "icono": "/assets/img/bacteria.png",
-    "division": "BACTERIOLOGÍA",
-    "marca": "IDLAB"
+    "idCatalogo": "1705002",
+    "nombre": "APTTest",
+    "division": "Coagulación",
+    "marca": "Wiener Lab"
   },
   {
-    "idCatalogo": "PT-39",
-    "nombre": "SUSPIBAC OXI",
-    "icono": "/assets/img/bacteria.png",
-    "division": "BACTERIOLOGÍA",
-    "marca": "IDLAB"
+    "idCatalogo": "1705004",
+    "nombre": "APTTest ellágico (en coagulómetros)",
+    "division": "Coagulación",
+    "marca": "Wiener Lab"
   },
+  {
+    "idCatalogo": "1705001",
+    "nombre": "Soluplastin",
+    "division": "Coagulación",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1705005",
+    "nombre": "Soluplastin para COR 50",
+    "division": "Coagulación",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1705006",
+    "nombre": "Fibrinógeno",
+    "division": "Coagulación",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1705009",
+    "nombre": "Tiempo de Trombina",
+    "division": "Coagulación",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1705031",
+    "nombre": "Dimero D Turbitest AA c/calibrador",
+    "division": "Coagulación",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1705034",
+    "nombre": "Control D-Dimer",
+    "division": "Coagulación",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1937001",
+    "nombre": "Plasma Control Normal",
+    "division": "Coagulación",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1937002",
+    "nombre": "Plasma Control Patológico",
+    "division": "Coagulación",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1705007",
+    "nombre": "Coagulation Calibrator para COR 50",
+    "division": "Coagulación",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1443152",
+    "nombre": "Anti-A monoclonal",
+    "division": "Hemoclasificadores (Reaclones)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1443154",
+    "nombre": "Anti-B monoclonal",
+    "division": "Hemoclasificadores (Reaclones)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1443153",
+    "nombre": "Anti-AB monoclonal",
+    "division": "Hemoclasificadores (Reaclones)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1443155",
+    "nombre": "Anti-D (Rho) monoclonal",
+    "division": "Hemoclasificadores (Reaclones)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1443151",
+    "nombre": "Albúmina Bovina 30%",
+    "division": "Hemoclasificadores (Reaclones)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1443156",
+    "nombre": "Suero Anti-humano (Coombs)",
+    "division": "Hemoclasificadores (Reaclones)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1474535",
+    "nombre": "WL Diluent (sustituye a 1474504)",
+    "division": "Hematología",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1474537",
+    "nombre": "WL Diluent (sustituye a 1474510)",
+    "division": "Hematología",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1474539",
+    "nombre": "WL Lyse (sustituye a 1474508)",
+    "division": "Hematología",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1474515",
+    "nombre": "WL 19 Rinse AA",
+    "division": "Hematología",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1474511",
+    "nombre": "WL 19 Rinse AA",
+    "division": "Hematología",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1474512",
+    "nombre": "WL 19 Lyse AA",
+    "division": "Hematología",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1474513",
+    "nombre": "WL 19 E-Z Cleanser AA",
+    "division": "Hematología",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1474521",
+    "nombre": "WL Probe Cleanser (sustituye al 1474514)",
+    "division": "Hematología",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1474518",
+    "nombre": "WL 19 Con AA 3 Niveles (pedidos programados trimestralmente)",
+    "division": "Hematología",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1474519",
+    "nombre": "WL 19 Con AA Nivel 2 (pedidos programados trimestralmente)",
+    "division": "Hematología",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1475002",
+    "nombre": "WL-29 LH Lyse 100mL x 4",
+    "division": "Hematología",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1475001",
+    "nombre": "WL-29 DIFF Lyse 500mL x 4",
+    "division": "Hematología",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1475000",
+    "nombre": "WL-29D Diluent x 20L",
+    "division": "Hematología",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1474521",
+    "nombre": "WL Probe Cleanser",
+    "division": "Hematología",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1475006",
+    "nombre": "WL-31 LEO (II) 500mL x 4",
+    "division": "Hematología",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1475004",
+    "nombre": "WL-31 LEO (I) Lyse 1L x 4",
+    "division": "Hematología",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1475008",
+    "nombre": "WL-31 LH Lyse 500mL x 4",
+    "division": "Hematología",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1475003",
+    "nombre": "WL-31D Diluent x 20L",
+    "division": "Hematología",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1200000",
+    "nombre": "e32 tests",
+    "division": "Eritrosedimentación",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1920140",
+    "nombre": "Urine Strip",
+    "division": "Urianálisis",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1840107",
+    "nombre": "Uricostat enzimático AA líquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1840110",
+    "nombre": "Uricostat enzimático AA líquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1690008",
+    "nombre": "Albúmina AA",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1021404",
+    "nombre": "Amilasa 405 AA líquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009693",
+    "nombre": "Ammonia",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1120007",
+    "nombre": "Bilirrubina Directa AA líquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1120008",
+    "nombre": "Bilirrubina Total AA líquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1152004",
+    "nombre": "Ca-color Arsenazo III AA",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1492361",
+    "nombre": "UIBC/TIBC AA líquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1220114",
+    "nombre": "Colestat enzimático AA líquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1220222",
+    "nombre": "Colestat enzimático AA líquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1220231",
+    "nombre": "HDL Colesterol monofase AA v.2",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1220239",
+    "nombre": "HDL Colesterol monofase AA v.2 (sin calibrador)",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1220229",
+    "nombre": "HDL Cholesterol Fast 40 ml (sin calibrador)",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1220233",
+    "nombre": "HDL Cholesterol Fast 80 ml (sin calibrador)",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1220220",
+    "nombre": "LDL Colesterol monofase AA",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1241403",
+    "nombre": "Colinesterasa AA",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999704",
+    "nombre": "Cholinesterase",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1271360",
+    "nombre": "CK NAC UV AA líquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1271361",
+    "nombre": "CK-MB NAC UV AA líquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1260360",
+    "nombre": "Creatinina cinética AA líquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1260362",
+    "nombre": "Creatinina enzimática AA líquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1351402",
+    "nombre": "Fosfatasa Acida Total y Prostática cinética",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1361402",
+    "nombre": "ALP 405 AA liquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1382321",
+    "nombre": "Fosfatemia UV AA",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1421404",
+    "nombre": "gG--test cinética AA líquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1400060",
+    "nombre": "Glicemia enzimática AA liquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1752360",
+    "nombre": "GOT (AST) UV AA líquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1762360",
+    "nombre": "GPT (ALT) UV AA líquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1492360",
+    "nombre": "Fer-color AA liquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009365",
+    "nombre": "Homocysteine",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999795",
+    "nombre": "Lactate",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1521304",
+    "nombre": "LDH-P UV AA líquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009284",
+    "nombre": "Lipasa AA líquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999803",
+    "nombre": "Magnesium CPZ",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1580001",
+    "nombre": "Mg color AA",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1690007",
+    "nombre": "Proti U/LCR",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1690009",
+    "nombre": "Proteínas Totales AA",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1780111",
+    "nombre": "TG Color GPO/PAP AA líquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1780112",
+    "nombre": "TG Color GPO/PAP AA líquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1810324",
+    "nombre": "Urea UV cinética AA líquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1810328",
+    "nombre": "Urea UV cinética AA líquida",
+    "division": "Química Clínica (Línea Líquida)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009803",
+    "nombre": "Glicemia Enzimática AA Líquida",
+    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009807",
+    "nombre": "Urea UV Cinética AA Liquida",
+    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009810",
+    "nombre": "Creatinina Cinética AA Líquida",
+    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009808",
+    "nombre": "Uricostat Enzimático AA Liquida",
+    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009802",
+    "nombre": "Colestat Enzimático AA Líquida",
+    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009806",
+    "nombre": "TG Color GPO/PAP AA Líquida",
+    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009804",
+    "nombre": "HDL Cholesterol fast",
+    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009811",
+    "nombre": "GOT (AST) UV AA Liquida",
+    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009812",
+    "nombre": "GPT (ALT) UV AA Líquida",
+    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009805",
+    "nombre": "Proteínas Totales AA",
+    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009801",
+    "nombre": "Albúmina AA",
+    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009809",
+    "nombre": "ALP 405 AA líquida",
+    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008158",
+    "nombre": "Glicemia enzimática AA líquida (sustituye al 1008138)",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008108",
+    "nombre": "Urea UV cinética AA líquida",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008107",
+    "nombre": "Creatinina cinética AA líquida",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008109",
+    "nombre": "Uricostat enzimático AA líquida",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008157",
+    "nombre": "Colestat enzimático AA liquida (sustituye al 1008136)",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008160",
+    "nombre": "TG Color GPO/PAP AA líquida (sustituye al 1008141)",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008102",
+    "nombre": "HDL Cholesterol fast",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008103",
+    "nombre": "LDL Colesterol monofase AA",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008111",
+    "nombre": "GOT (AST) UV AA líquida",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008112",
+    "nombre": "GPT (ALT) UV AA liquida",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008115",
+    "nombre": "Bilirrubina Total AA líquida",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008116",
+    "nombre": "Bilirrubina Directa AA liquida",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008110",
+    "nombre": "ALP 405 AA líquida",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008142",
+    "nombre": "Amilasa 405 AA líquida",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008159",
+    "nombre": "Proteinas totales AA (sustituye al 1008139)",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008156",
+    "nombre": "Albúmina AA (sustituye 1008135)",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008162",
+    "nombre": "Ca-Color Arsenazo III AA (sustituye al 1008143)",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008163",
+    "nombre": "Fosfatemia UV AA (1008144)",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008145",
+    "nombre": "Mg-Color AA",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008128",
+    "nombre": "Magnesium CPZ",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008114",
+    "nombre": "LDH-P UV AA líquida",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008113",
+    "nombre": "yG--test cinética AA líquida",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008118",
+    "nombre": "CK-MB NAC UV AA líquida",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008119",
+    "nombre": "CK-NAC UV AA líquida",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008161",
+    "nombre": "Proti U/LCR (sustituye 1008140)",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008122",
+    "nombre": "Fer-color AA líquida",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008123",
+    "nombre": "UIBC/TIBC AA líquida",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008152",
+    "nombre": "Lipasa AA liquida",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008120",
+    "nombre": "Cholinesterase",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008146",
+    "nombre": "Amonia",
+    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009601",
+    "nombre": "Albúmina AA",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009602",
+    "nombre": "ALP 405 AA líquida",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009603",
+    "nombre": "Amilasa 405 AA líquida",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009604",
+    "nombre": "Bilirrubina Directa AA líquida",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009605",
+    "nombre": "Bilirrubina Total AA líquida",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009606",
+    "nombre": "Ca Color Arsenazo III AA",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009607",
+    "nombre": "Cholinesterase",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009608",
+    "nombre": "CK-MB NAC UV AA líquida",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009609",
+    "nombre": "CK NAC UV AA liquida",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009610",
+    "nombre": "Colestat enzimático AA líquido",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009611",
+    "nombre": "Creatinina cinética AA líquida",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009613",
+    "nombre": "Fer Color AA líquida",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009614",
+    "nombre": "Fosfatemia UV AA",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009616",
+    "nombre": "gG--test cinética AA liquida",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009617",
+    "nombre": "Glicemia enzimática AA líquida",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009619",
+    "nombre": "GOT (AST) UV AA líquida",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009620",
+    "nombre": "GPT (ALT) UV AA líquida",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009702",
+    "nombre": "HDL Colesterol monofase AA v.2",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009626",
+    "nombre": "LDH-P UV AA líquida",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009627",
+    "nombre": "LDL Colesterol monofase AA",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009628",
+    "nombre": "Lipasa AA líquida",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009629",
+    "nombre": "Magnesium CPZ",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009630",
+    "nombre": "Proteínas Totales AA",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009631",
+    "nombre": "Proti U/LCR",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009632",
+    "nombre": "TG Color GPO/PAP AA liquida",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009633",
+    "nombre": "UIBC/TIBC AA líquida",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009634",
+    "nombre": "Urea UV cinética AA líquida",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009635",
+    "nombre": "Uricostat enzimático AA líquida",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009669",
+    "nombre": "Fosfatasa Acida Total y Prostática cinética",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009623",
+    "nombre": "Homocysteine",
+    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1073261",
+    "nombre": "ASO látex Turbitest AA",
+    "division": "Línea de Turbidimetría",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1103261",
+    "nombre": "FR látex Turbitest AA",
+    "division": "Línea de Turbidimetría",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1683263",
+    "nombre": "CRP hs Turbitest AA",
+    "division": "Línea de Turbidimetría",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009800",
+    "nombre": "CRP hs Turbitest AA",
+    "division": "Línea de Turbidimetría",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1683267",
+    "nombre": "PCR Turbitest AA",
+    "division": "Línea de Turbidimetría",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1513262",
+    "nombre": "IgG Turbitest AA",
+    "division": "Línea de Turbidimetría",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1513261",
+    "nombre": "IgA Turbitest AA",
+    "division": "Línea de Turbidimetría",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1513263",
+    "nombre": "IgM Turbitest AA",
+    "division": "Línea de Turbidimetría",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1513267",
+    "nombre": "IgE Turbitest AA",
+    "division": "Línea de Turbidimetría",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1513264",
+    "nombre": "C3 Turbitest AA",
+    "division": "Línea de Turbidimetría",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1513265",
+    "nombre": "C4 Turbitest AA",
+    "division": "Línea de Turbidimetría",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009366",
+    "nombre": "Cystatin C Turbitest AA",
+    "division": "Línea de Turbidimetría",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009646",
+    "nombre": "Cystatin C Turbitest AA",
+    "division": "Línea de Turbidimetría",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1453861",
+    "nombre": "HbA1c Turbitest AA v.2 (Calibrador por separado)",
+    "division": "Línea de Turbidimetría",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999701",
+    "nombre": "Reactivo Hemolizante HbA1c",
+    "division": "Línea de Turbidimetría",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1513266",
+    "nombre": "Microalbuminuria Turbitest AA",
+    "division": "Línea de Turbidimetría",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999703",
+    "nombre": "TRF Turbitest AA",
+    "division": "Línea de Turbidimetría",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999747",
+    "nombre": "Ferritin Turbitest AA",
+    "division": "Línea de Turbidimetría",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1705031",
+    "nombre": "Dímero D Turbitest AA c/calibrador",
+    "division": "Línea de Turbidimetría",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008126",
+    "nombre": "HbA1c Turbitest AA v.2",
+    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008147",
+    "nombre": "ASO látex Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008106",
+    "nombre": "FR látex Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008100",
+    "nombre": "CRP hs Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008133",
+    "nombre": "IgG Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008132",
+    "nombre": "IgA Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008134",
+    "nombre": "IgM Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008101",
+    "nombre": "IgE Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008130",
+    "nombre": "C3 Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008131",
+    "nombre": "C4 Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008104",
+    "nombre": "Ferritin Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008127",
+    "nombre": "TRF Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008165",
+    "nombre": "D dimer Turbitest AAC/CAL",
+    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008124",
+    "nombre": "Microalbúmina Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008150",
+    "nombre": "Cystatin C Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008117",
+    "nombre": "Lactate",
+    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1008125",
+    "nombre": "PCR Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009641",
+    "nombre": "ASO látex Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009648",
+    "nombre": "FR látex Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009677",
+    "nombre": "CRP HS Turbitest AA - CMD",
+    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009667",
+    "nombre": "IgA Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009652",
+    "nombre": "IgG Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009653",
+    "nombre": "IgM Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009643",
+    "nombre": "C3 Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009644",
+    "nombre": "C4 Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009651",
+    "nombre": "HbA1c v2 Turb AA",
+    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999701",
+    "nombre": "Reactivo Hemolizante",
+    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009656",
+    "nombre": "Microalbúmina Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009646",
+    "nombre": "Cystatin C Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009659",
+    "nombre": "TRF Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1513267",
+    "nombre": "IgE Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999747",
+    "nombre": "Ferritin Turbitest AA",
+    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009277",
+    "nombre": "Uricostat enzimático AA liquida",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009240",
+    "nombre": "Albúmina AA",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009243",
+    "nombre": "Amilasa 405 AA líquida",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009244",
+    "nombre": "Bilirrubina Total AA líquida",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009246",
+    "nombre": "Bilirrubina Directa AA líquida",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009248",
+    "nombre": "Ca-color Arsenazo III AA",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009253",
+    "nombre": "Colestat enzimático AA líquida",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009264",
+    "nombre": "HDL Colesterol monofase AA v.2",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009251",
+    "nombre": "CK NAC UV AA líquida",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009249",
+    "nombre": "CK-MB NAC UV AA líquida",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009254",
+    "nombre": "Creatinina cinética AA líquida",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009241",
+    "nombre": "ALP 405 AA liquida",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009256",
+    "nombre": "Fosfatemia UV AA",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009258",
+    "nombre": "g-G-test cinética AA líquida",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009260",
+    "nombre": "Glicemia enzimática AA líquida",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009261",
+    "nombre": "GOT (AST) UV AA Liquida",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009263",
+    "nombre": "GPT (ALT) UV AA Líquida",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009285",
+    "nombre": "Fer-color AA líquida",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009267",
+    "nombre": "LDH-P UV AA líquida",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009271",
+    "nombre": "Mg Color AA",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009282",
+    "nombre": "Proti U/LCR",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009273",
+    "nombre": "Proteínas Totales AA",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009274",
+    "nombre": "TG Color GPO/PAP AA liquida",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009275",
+    "nombre": "Urea UV cinética AA líquida",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009284",
+    "nombre": "Lipasa AA líquida",
+    "division": "Línea Automatizada Equipos CB/BT",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009320",
+    "nombre": "Uricostat enzimático AA líquida (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009300",
+    "nombre": "Albúmina AA (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009326",
+    "nombre": "Amilasa 405 AA líquida (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009335",
+    "nombre": "Bilirrubina Directa AA liquida (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009334",
+    "nombre": "Bilirrubina Total AA líquida (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009307",
+    "nombre": "Ca-color Arsenazo III AA (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009308",
+    "nombre": "Colestat enzimático AA líquida (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1220231",
+    "nombre": "HDL Colesterol monofase AA v.2",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009401",
+    "nombre": "HDL Colesterol monofase AA v.2",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1220220",
+    "nombre": "LDL Colesterol monofase AA (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009331",
+    "nombre": "CK NAC UV AA líquida (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009333",
+    "nombre": "CK-MB NAC UV AA líquida (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009329",
+    "nombre": "Creatinina cinética AA líquida (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009301",
+    "nombre": "ALP 405 AA liquida (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009311",
+    "nombre": "Fosfatemia UV AA (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009330",
+    "nombre": "gG--test cinética AA líquida (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009313",
+    "nombre": "Glicemia enzimática AA líquida (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009321",
+    "nombre": "GOT (AST) UV AA Líquida (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009322",
+    "nombre": "GPT (ALT) UV AA Liquida (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009336",
+    "nombre": "Fer-color AA líquida (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009315",
+    "nombre": "LDH-P UV AA líquida (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009337",
+    "nombre": "Mg Color AA (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009367",
+    "nombre": "Magnesium CPZ (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009317",
+    "nombre": "Proti U/LCR (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009327",
+    "nombre": "Proteínas Totales AA (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009318",
+    "nombre": "TG Color GPO/PAP AA líquida (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009319",
+    "nombre": "Urea UV cinética AA líquida (K)",
+    "division": "Línea Automatizada Equipo Kone",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1918005",
+    "nombre": "Calibrador A plus",
+    "division": "Calibradores",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1220232",
+    "nombre": "HDL cholesterol Calibrator",
+    "division": "Calibradores",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999744",
+    "nombre": "Ammonia Calibrator",
+    "division": "Calibradores",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1913261",
+    "nombre": "Calibrador proteínas nivel alto Turbitest AA",
+    "division": "Calibradores",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1913263",
+    "nombre": "ASO Calibrador Turbitest AA",
+    "division": "Calibradores",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1913264",
+    "nombre": "FR Calibrador Turbitest",
+    "division": "Calibradores",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1913266",
+    "nombre": "Microalbuminuria Calibrador Turbitest AA",
+    "division": "Calibradores",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1913267",
+    "nombre": "PCR Calibrador en serie Turbitest AA",
+    "division": "Calibradores",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999880",
+    "nombre": "HbA1c Calibrator Turbitest AA",
+    "division": "Calibradores",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999727",
+    "nombre": "HbA1c enzymatic Calibrator",
+    "division": "Calibradores",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999796",
+    "nombre": "Cystatin C Calibrator Turbitest AA",
+    "division": "Calibradores",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999732",
+    "nombre": "Homocysteine Calibrator",
+    "division": "Calibradores",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1950400",
+    "nombre": "IgE Calibrator Turbitest AA",
+    "division": "Calibradores",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999742",
+    "nombre": "Ferritin Calibrator Turbitest AA",
+    "division": "Calibradores",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1937553",
+    "nombre": "Standatrol S-E 2 niveles",
+    "division": "Controles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1271553",
+    "nombre": "CK MB Control 3 niveles",
+    "division": "Controles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999746",
+    "nombre": "Ammonia Control",
+    "division": "Controles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999728",
+    "nombre": "HbA1c enzymatic Control",
+    "division": "Controles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999797",
+    "nombre": "Cystatin C control Turbitest AA",
+    "division": "Controles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999733",
+    "nombre": "Homocysteine Control",
+    "division": "Controles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1933261",
+    "nombre": "Control Inmunológico nivel 1 Turbitest AA",
+    "division": "Controles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1933262",
+    "nombre": "Control Inmunológico nivel 2 Turbitest AA",
+    "division": "Controles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1937262",
+    "nombre": "PCR Control N Turbitest AA",
+    "division": "Controles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999702",
+    "nombre": "HbA1c Control Turbitest AA",
+    "division": "Controles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1933266",
+    "nombre": "Microalbuminuria Turbitest AA Controles",
+    "division": "Controles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1937003",
+    "nombre": "Proti U/LCR Control 2 niveles",
+    "division": "Controles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1950300",
+    "nombre": "IgE Control Turbitest AA",
+    "division": "Controles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1705034",
+    "nombre": "Control D-Dimer",
+    "division": "Controles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9331029",
+    "nombre": "Dispo-System FL Cuv mix (CUBETAS para Coagulómetros CoL 1, 2 y 4/ Fibrintimer)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9331037",
+    "nombre": "Cubetas con imán",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009902",
+    "nombre": "CMD 600 Urine Diluent (1x125 mL)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009903",
+    "nombre": "CMD 600 Cleaning Solution (6x12 mL)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009904",
+    "nombre": "CMD 600 Reagent Module LT",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009665",
+    "nombre": "CMD Urine Quality Control (2 x 100mL)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9313104",
+    "nombre": "5206 SPACER ELECTRODE, ISE 4CH",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9313100",
+    "nombre": "040-000101-00 Cl electrode",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9313101",
+    "nombre": "BA34-10-63640 Reference electrode",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9313102",
+    "nombre": "BA34-10-63641 K electrode",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9313103",
+    "nombre": "BA34-10-63642 Na electrode",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999970",
+    "nombre": "Afdaptadores Frascos 20ml CMD600 x 50",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9313113",
+    "nombre": "115-020323-00 Plastuc Cuvettes (10/BOX)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1474521",
+    "nombre": "WL Probe Cleanser",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009666",
+    "nombre": "CMD 80 Detergent (6x2L)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999720",
+    "nombre": "Acid solution",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9315502",
+    "nombre": "Na electrode",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9315501",
+    "nombre": "K electrode",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9315503",
+    "nombre": "Cl electrode",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9315500",
+    "nombre": "Reference electrode",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9313220",
+    "nombre": "ISE Reagent Pack",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9313210",
+    "nombre": "ISE Cleaning Solution (50mL)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9313240",
+    "nombre": "Na Cleaning Solution (15mL)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009660",
+    "nombre": "MR Buffer Solution (antes 9280026)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009666",
+    "nombre": "CD80 Detergent",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009676",
+    "nombre": "CD80 Detergent",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999745",
+    "nombre": "Set de frascos CMD de 20 ml",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999754",
+    "nombre": "Set de frascos CMD de 62 ml",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9280022",
+    "nombre": "Na electrode, CMD 800",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9280023",
+    "nombre": "Kelectrode, CMD 800",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9280024",
+    "nombre": "Cl electrode, CMD 800",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9280025",
+    "nombre": "Reference electrode, CMD 800",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009661",
+    "nombre": "CMD Cleaning Solution",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009662",
+    "nombre": "Serum Standard (High, Low)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009663",
+    "nombre": "MR Urine Standard (High, Low)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009665",
+    "nombre": "MR Urine Quality Control (High, Low)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1705008",
+    "nombre": "COR Cleanser",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1705022",
+    "nombre": "Imidazole Buffer",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9339092",
+    "nombre": "Cuvette (Cubetas para COR 50)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9353063",
+    "nombre": "Copas de muestra estandar",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9339091",
+    "nombre": "4L Plastic Bottle",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1958003",
+    "nombre": "Solución de limpieza SE",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1979002",
+    "nombre": "TW AA",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999551",
+    "nombre": "NOION",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999601",
+    "nombre": "NOION",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9353001",
+    "nombre": "Cubetas de reacción (x1200) 6mm, M 2300 Plus",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9353002",
+    "nombre": "Recipientes de reactivos (50 ml), M 2300 Plus",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9353003",
+    "nombre": "Recipiente doble de reactivos (30 y 20 ml) M 2300 Plus",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9353006",
+    "nombre": "Tubuladura de bomba peristaltica, M 1600 y M 2300 Plus",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9353007",
+    "nombre": "Tubos de muestra de 13 mm. (Hasta agotar existencias)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9353009",
+    "nombre": "Lámpara con zocalo, M 2300 Plus",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9990115",
+    "nombre": "Lámpara 6V 20W Sin zocalo M2300",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9353013",
+    "nombre": "Bloque de secado, M 2300 Plus",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9353056",
+    "nombre": "Lámpara con zocalo, M1600",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9990116",
+    "nombre": "Lámpara 6V 10W Sin zocalo, M1600",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9999979",
+    "nombre": "Papel para metrolab 1600 DR",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9354200",
+    "nombre": "Tubuladura de bomba peristaltica",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9354201",
+    "nombre": "Bloque de secado6 mm",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9356130",
+    "nombre": "Kit reparación bomba de secado",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9356142",
+    "nombre": "Kit Tubuladura peristaltica CM250 v5",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9356167",
+    "nombre": "Kit Filtros lavador",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1009279",
+    "nombre": "ISE TAR Plus iones",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999719",
+    "nombre": "Tensoactive",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999721",
+    "nombre": "Basic Solution",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9252183",
+    "nombre": "Sample cups (copillas de muestra)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9259995",
+    "nombre": "Reagent bottle 50 ML (Frascos de reactivos 50 ml)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999579",
+    "nombre": "Set de Frascos BT 3000 Plus 50 ml",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9259998",
+    "nombre": "Reagent bottle 10 ML (Frascos de reactivos 10 ml)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999577",
+    "nombre": "Set de Frascos BT 3000 Plus 10 ml",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9259999",
+    "nombre": "Reagent bottle 20 ML (Frascos de reactivos 20 ml)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999578",
+    "nombre": "Set de Frascos BT 3000 Plus 20 ml",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9253102",
+    "nombre": "Reference electrode (Electrodo de Referencia CB 350i)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9253103",
+    "nombre": "Na Electrode (Electrodo de Sodio (Na) BT 3000/ CB 350i)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9253104",
+    "nombre": "K Electrode (Electrodo de Potasio (K) BT 3000 / CB 350i)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9253105",
+    "nombre": "CI Electrode (Electrodo de Cloro (CI) BT 3000/ CB 350i)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9253114",
+    "nombre": "Lámpara 12 V, 35 W (CB 350i)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9333001",
+    "nombre": "Reference electrode kit (Kit p/ electrodo de referencia)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9333002",
+    "nombre": "KM.F. Micro volume electrode (Potasio)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9333003",
+    "nombre": "Na M.F. Micro volume electrode (Sodio)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9333004",
+    "nombre": "Ca M.F. Micro volume electrode (Calcio)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9333005",
+    "nombre": "CI M.F. Micro volume electrode (Cloro)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9333006",
+    "nombre": "pH M.F. Micro volume electrode (PH)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9333008",
+    "nombre": "Li M.F. Micro volume electrode (Litio)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9333010",
+    "nombre": "ISE Calibrator solution 1 (Solución Calibradora 1)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9333011",
+    "nombre": "ISE Calibrator solution 2 & 3 (Soluciones calibradoras 2 & 3)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9333014",
+    "nombre": "REF Electrodes solution (Solución para electrodo Referencia)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9333019",
+    "nombre": "Halogen lamp EMC (Lámpara de halógeno Konelab)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9333020",
+    "nombre": "Multicell cuvette (Cubetas multicelda, tira c/12 celdas).",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9333023",
+    "nombre": "Sample cup 0.5 ml (Copillas muestra 0.5 ml)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9333028",
+    "nombre": "Reagent vessel 10 ml (Fcos. reactivos 10 ml)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9333029",
+    "nombre": "Reagent vessel 20 ml (Fcos. reactivos 20 ml)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999575",
+    "nombre": "Set de frascos Konelab de 20 ml",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "9333030",
+    "nombre": "Reagent vessel 60 ml (Fcos. reactivos 60 ml)",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+  {
+    "idCatalogo": "1999576",
+    "nombre": "Set de frascos Konelab de 60 ml",
+    "division": "Consumibles",
+    "marca": "Wiener Lab"
+  },
+ 
   {
     "idCatalogo": "DK0044",
     "nombre": "T3",

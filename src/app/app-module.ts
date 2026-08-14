@@ -17,7 +17,7 @@ import { Elegir } from './components/elegir/elegir';
 import { Equiposlider } from './components/equiposlider/equiposlider';
 import { Catalogo } from './components/catalogo/catalogo';
 import { EquiposBR } from './components/equipos-br/equipos-br';
-import { Productosids } from './components/productosids/productosids';
+
 
 @NgModule({
   declarations: [
@@ -35,7 +35,7 @@ import { Productosids } from './components/productosids/productosids';
     Equiposlider,
     Catalogo,
     EquiposBR,
-    Productosids,
+
   ],
   imports: [BrowserModule, AppRoutingModule, FormsModule],
   providers: [provideBrowserGlobalErrorListeners()],
