@@ -137,6 +137,8 @@
     font-weight: 600;
     text-align: center;
     color: #191970;
+    white-space: pre-line;
+    overflow-wrap: anywhere;
 }
 
 .pagination li.active {

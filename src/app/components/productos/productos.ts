@@ -8766,7 +8766,8 @@ export class Productos implements AfterViewInit, OnInit {
     "icono": "/assets/img/Molecular.png",
     "division": "Molecular",
     "marca": "GenieAll"
-  }
+  },
+  
 
   ];
 
@@ -8847,10 +8848,26 @@ export class Productos implements AfterViewInit, OnInit {
     'Urianálisis': { icon: 'fa-flask-vial', color: 'amber darken-2' },
   };
 
-  /** Divisiones únicas presentes en el arreglo de productos, ordenadas. */
+  /**
+   * Divisiones a mostrar como botones: solo las de las marcas seleccionadas.
+   * Sin marca seleccionada -> arreglo vacío (la sección de división se oculta).
+   */
   get divisiones(): string[] {
-    return [...new Set(this.productos.map(p => p.division))]
-      .sort((a, b) => a.trim().localeCompare(b.trim()));
+    if (this.marcaFilter.length === 0) return [];
+    return [...new Set(
+      this.productos
+        .filter(p => this.marcaFilter.includes(p.marca))
+        .map(p => p.division)
+    )].sort((a, b) => a.trim().localeCompare(b.trim()));
+  }
+
+  /** Texto a mostrar bajo el círculo (con cortes manuales para no encimarse). */
+  private divisionLabels: Record<string, string> = {
+    'INMUNOHEMATOLOGÍA': 'INMUNO-\nHEMATOLOGÍA',
+  };
+
+  divisionLabel(division: string): string {
+    return this.divisionLabels[division.trim()] ?? division.trim();
   }
 
   divisionIcon(division: string): string {
@@ -8870,6 +8887,10 @@ export class Productos implements AfterViewInit, OnInit {
     this.marcaFilter = idx === -1
       ? [...this.marcaFilter, marca]
       : this.marcaFilter.filter(m => m !== marca);
+    // Si la división filtrada ya no pertenece a las marcas seleccionadas, se limpia.
+    if (this.divisionFilter && !this.divisiones.includes(this.divisionFilter)) {
+      this.divisionFilter = null;
+    }
     this.currentPage = 1;
   }
   prevPage(): void { if (this.currentPage > 1) this.currentPage--; }

@@ -78,21 +78,23 @@
       </p>
     </div>
 
-    <div class="filtro-seccion">
-      <div class="filtro-titulo">División</div>
-      <div class="divisiones-btns">
-        <button type="button" class="division-btn"
-           *ngFor="let d of divisiones"
-           [class.division-btn--dim]="divisionFilter && divisionFilter !== d"
-           [class.division-btn--active]="divisionFilter === d"
-           (click)="toggleDivision(d)">
-          <span class="division-circulo" [ngClass]="divisionColor(d)">
-            <i class="fa-solid" [ngClass]="divisionIcon(d)"></i>
-          </span>
-          <span class="division-label">{{ d.trim() }}</span>
-        </button>
+    @if (divisiones.length) {
+      <div class="filtro-seccion">
+        <div class="filtro-titulo">División</div>
+        <div class="divisiones-btns">
+          <button type="button" class="division-btn"
+             *ngFor="let d of divisiones"
+             [class.division-btn--dim]="divisionFilter && divisionFilter !== d"
+             [class.division-btn--active]="divisionFilter === d"
+             (click)="toggleDivision(d)">
+            <span class="division-circulo" [ngClass]="divisionColor(d)">
+              <i class="fa-solid" [ngClass]="divisionIcon(d)"></i>
+            </span>
+            <span class="division-label">{{ divisionLabel(d) }}</span>
+          </button>
+        </div>
       </div>
-    </div>
+    }
 
 
     
