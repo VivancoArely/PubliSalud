@@ -66,8 +66,8 @@
       </p>
       <p>
         <label>
-          <input type="checkbox" [checked]="marcaFilter.includes('Dimeditec')" (change)="toggleMarca('Dimeditec')" />
-          <span>Dimeditec</span>
+          <input type="checkbox" [checked]="marcaFilter.includes('Demeditec')" (change)="toggleMarca('Demeditec')" />
+          <span>Demeditec</span>
         </label>
       </p>
       <p>
@@ -81,27 +81,16 @@
     <div class="filtro-seccion">
       <div class="filtro-titulo">División</div>
       <div class="divisiones-btns">
-        <a class="waves-effect waves-light btn-small light-green accent-4"
-           [style.opacity]="divisionFilter && divisionFilter !== 'SISTEMAS CLINICOS' ? '0.4' : '1'"
-           (click)="toggleDivision('SISTEMAS CLINICOS')">Sistemas Clínicos</a>
-        <a class="waves-effect waves-light btn-small yellow accent-4"
-           [style.opacity]="divisionFilter && divisionFilter !== 'ENFERMEDADES INFECCIOSAS' ? '0.4' : '1'"
-           (click)="toggleDivision('ENFERMEDADES INFECCIOSAS')">Enf. Infecciosa</a>
-        <a class="waves-effect waves-light btn-small deep-purple accent-1"
-           [style.opacity]="divisionFilter && divisionFilter !== 'CONTROL DE CALIDAD' ? '0.4' : '1'"
-           (click)="toggleDivision('CONTROL DE CALIDAD')">Control de Calidad</a>
-        <a class="waves-effect waves-light btn-small red darken-3"
-           [style.opacity]="divisionFilter && divisionFilter !== 'INMUNOHEMATOLOGÍA' ? '0.4' : '1'"
-           (click)="toggleDivision('INMUNOHEMATOLOGÍA')">Inmunohematología</a>
-        <a class="waves-effect waves-light btn-small cyan darken-1"
-           [style.opacity]="divisionFilter && divisionFilter !== 'DIAGNÓSTICO AUTOINMUNE' ? '0.4' : '1'"
-           (click)="toggleDivision('DIAGNÓSTICO AUTOINMUNE')">Diag. Autoinmune</a>
-        <a class="waves-effect waves-light btn-small orange darken-2"
-           [style.opacity]="divisionFilter && divisionFilter !== 'BACTERIOLOGÍA' ? '0.4' : '1'"
-           (click)="toggleDivision('BACTERIOLOGÍA')">Bacteriología</a>
-        <a class="waves-effect waves-light btn-small blue-grey darken-1"
-           [style.opacity]="divisionFilter && divisionFilter !== 'EQUIPOS' ? '0.4' : '1'"
-           (click)="toggleDivision('EQUIPOS')">Equipos</a>
+        <button type="button" class="division-btn"
+           *ngFor="let d of divisiones"
+           [class.division-btn--dim]="divisionFilter && divisionFilter !== d"
+           [class.division-btn--active]="divisionFilter === d"
+           (click)="toggleDivision(d)">
+          <span class="division-circulo" [ngClass]="divisionColor(d)">
+            <i class="fa-solid" [ngClass]="divisionIcon(d)"></i>
+          </span>
+          <span class="division-label">{{ d.trim() }}</span>
+        </button>
       </div>
     </div>
 

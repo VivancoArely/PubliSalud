@@ -121,8 +121,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "72460",
     "nombre": "Geenius HIV-1/2 Confirmatory Assay 20t",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -142,8 +142,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "72251",
     "nombre": "NEW LAV-BLOT I Assay 18 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -156,8 +156,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "72526",
     "nombre": "Malaria EIA Test Kit 96 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -275,8 +275,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "72561",
     "nombre": "Monolisa HCV Ag-Ab ULTRA V2 96 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -324,8 +324,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "72386",
     "nombre": "Genscreen ULTRA HIV Ag-Ab 96 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -401,8 +401,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "72530",
     "nombre": "Syphilis Total Ab 96 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -436,8 +436,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "61607",
     "nombre": "Pastorex Meningitis Complete Kit 25t",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -471,15 +471,15 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "72346",
     "nombre": "Monolisa HBs Ag ULTRA 96 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "62794",
     "nombre": "Platelia Aspergillus Ag 96 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -660,8 +660,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "61721",
     "nombre": "Pastorex Strep A,B,C,D,F,G Kit 60 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -695,15 +695,15 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "72515",
     "nombre": "RPR 100, 100 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "72830",
     "nombre": "Platelia Dengue NS1 Ag 96 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -744,15 +744,15 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "60780",
     "nombre": "FUNGITEST Kit 10 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "91587",
     "nombre": "PR 4100",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -765,8 +765,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "89611",
     "nombre": "EVOLIS 300µL Tips x17280",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -814,8 +814,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "72516",
     "nombre": "RPR 500, 500 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -905,8 +905,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "89612",
     "nombre": "EVOLIS 1100µL Tips x9600",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1017,8 +1017,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "85499",
     "nombre": "PW 40 - Microplate Washer",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1108,8 +1108,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "72329",
     "nombre": "Geenius HIV-1/2 Confirm Controls 2x120µL",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1199,8 +1199,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "72503",
     "nombre": "TPHA 200, 200 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1248,8 +1248,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "68678",
     "nombre": "Nitrofurantoin 300µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1318,8 +1318,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "72252",
     "nombre": "NEW LAV-BLOT II Assay 18 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1353,15 +1353,15 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "68648",
     "nombre": "Ciprofloxacin 5µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "72408",
     "nombre": "Monolisa HBs Ag ULTRA Confirmatory 25t",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1388,8 +1388,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "66608",
     "nombre": "Gentamicin 10µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1423,8 +1423,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "67658",
     "nombre": "Fosfomycin 200µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1444,8 +1444,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "67448",
     "nombre": "Tetracycline 30µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1493,8 +1493,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "66568",
     "nombre": "Imipenem 10µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1528,8 +1528,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "92465",
     "nombre": "Geenius Reader",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1542,8 +1542,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "66858",
     "nombre": "Levofloxacin 5µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1556,8 +1556,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "66188",
     "nombre": "Ceftriaxone 30µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1577,22 +1577,22 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "68898",
     "nombre": "Trimetho-Sulfam. 1.25-23.75µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "50294",
     "nombre": "7-Disk Dispenser",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "66178",
     "nombre": "Amoxicillin-Clav.Acid 20-10µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1626,8 +1626,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "62740",
     "nombre": "Mycoplasma Duo Kit 20 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1654,8 +1654,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "62783",
     "nombre": "Platelia Aspergillus IgG 96 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1668,8 +1668,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "66278",
     "nombre": "Chloramphenicol 30µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1682,8 +1682,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "66148",
     "nombre": "Amikacin 30µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1724,15 +1724,15 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "87530",
     "nombre": "IPS",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "66098",
     "nombre": "Cefepime 30µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1752,8 +1752,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "56353",
     "nombre": "Pastorex Staph Plus 5x50 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1766,8 +1766,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "66308",
     "nombre": "Ceftazidime 30µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1780,8 +1780,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "66358",
     "nombre": "Cefuroxime 30µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1822,15 +1822,15 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "62784",
     "nombre": "Platelia Candida Ag Plus 96 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "66368",
     "nombre": "Cefotaxime 30µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1885,8 +1885,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "67048",
     "nombre": "Meropenem 10µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1906,8 +1906,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "66448",
     "nombre": "Erythromycin 15µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1948,8 +1948,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "66128",
     "nombre": "Ampicillin 10µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -1983,22 +1983,22 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "72315",
     "nombre": "Monolisa Anti-HBc PLUS 96 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "68928",
     "nombre": "Vancomycin 30µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "66328",
     "nombre": "Clindamycin 2µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2011,15 +2011,15 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "66338",
     "nombre": "Norfloxacin 10µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "67518",
     "nombre": "Ertapenem 10µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2053,22 +2053,22 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "67218",
     "nombre": "Penicillin 6µG/10 IU 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "67238",
     "nombre": "Piperacillin-Tazo. 100-10µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "89799",
     "nombre": "EVOETP Waste Bag, Box of 10",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2088,8 +2088,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "66258",
     "nombre": "Cefazolin 30µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2102,22 +2102,22 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "67058",
     "nombre": "Clarithromycin 15µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "67008",
     "nombre": "Azithromycin 15µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "56356",
     "nombre": "Pastorex Staph Plus 50 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2130,8 +2130,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "66928",
     "nombre": "Aztreonam 30µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2151,8 +2151,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "66888",
     "nombre": "Oxacillin 1µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2165,22 +2165,22 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "66388",
     "nombre": "Doxycycline 30µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "12020217",
     "nombre": "Laptop para equipos IDD",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "61727",
     "nombre": "Pastorex Strep B 60 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2207,15 +2207,15 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "66218",
     "nombre": "Cephalotin 30µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "68938",
     "nombre": "Ofloxacin 5µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2249,15 +2249,15 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "67018",
     "nombre": "Ampicillin-Sulbactam 10-10µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "67488",
     "nombre": "Tobramycin 10µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2270,8 +2270,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "67388",
     "nombre": "Linezolid 30µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2340,8 +2340,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "66728",
     "nombre": "Minocycline 30µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2354,15 +2354,15 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "68618",
     "nombre": "Nalidixic Acid 30µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "68260",
     "nombre": "Beta CARBA Test 25 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2396,8 +2396,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "67588",
     "nombre": "Cefixime 5µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2417,8 +2417,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "67318",
     "nombre": "Gentamicin 30µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2445,64 +2445,64 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "66228",
     "nombre": "Cefoxitin 30µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "67498",
     "nombre": "Cefaclor 30µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "61728",
     "nombre": "Pastorex Strep D 60 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "66758",
     "nombre": "Netilmicin 30µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "12012125",
     "nombre": "CEFOTAXIME-CLAV.ACID 30-10μG 4X50 DISKS",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "67288",
     "nombre": "Ampicillin 2µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "67608",
     "nombre": "Streptomycin 300µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "67598",
     "nombre": "Gentamicin 120µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "66208",
     "nombre": "Cefalexin 30µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2536,8 +2536,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "67268",
     "nombre": "Colistin 10µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2571,8 +2571,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "61726",
     "nombre": "Pastorex Strep A 60 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2606,8 +2606,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "87041",
     "nombre": "PW 40 8-Channel Manifold",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2620,15 +2620,15 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "67228",
     "nombre": "Piperacillin 100µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "63726",
     "nombre": "UriSelect 4, 20x90mm plates",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2655,15 +2655,15 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "67618",
     "nombre": "Cefoperazone 75µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "66618",
     "nombre": "Kanamycin 30µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2683,8 +2683,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "94195",
     "nombre": "PR4100 SW-APF-IFU",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2718,8 +2718,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "66648",
     "nombre": "Rifampicin 5µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2753,8 +2753,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "92502",
     "nombre": "Geenius HCV Supplemental Controls",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2781,22 +2781,22 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "92461",
     "nombre": "Geenius Software with APF/Manual OUS",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "67398",
     "nombre": "Tigecycline 15µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "12012199",
     "nombre": "CEFTAZIDIME-CLAV.ACID 30-10μG 4X50DISKS",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2809,36 +2809,36 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "91610",
     "nombre": "Autoblot 3000 500mL Bottle",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "89894",
     "nombre": "PE Kit, Pipettor-Washer 10 plates",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "89603",
     "nombre": "EVOLIS Accessory Box",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "93569",
     "nombre": "ETP Touchscreen Pen",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "90433",
     "nombre": "EVOLIS Sample Rack, with Numbering 1-20",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2858,8 +2858,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "12015656",
     "nombre": "WIN10 PC OUS + Pre-Installed EVOLIS SW",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2893,8 +2893,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "12020740",
     "nombre": "IDD 2.0 - 2.2 KVA UPS",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2928,8 +2928,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "89794",
     "nombre": "EVOLIS Cover, Waste Bag",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -2949,15 +2949,15 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "66198",
     "nombre": "Carbenicillin 100µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "67458",
     "nombre": "Ticarcillin 75µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -3376,456 +3376,456 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "93489",
     "nombre": "EVOLIS SW-APF-IFU",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "93502",
     "nombre": "ETP SW-APF-IFU",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "63740",
     "nombre": "CandiSelect 20x90mm plates",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "63750",
     "nombre": "StrepBSelect 20x90mm plates",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "64694",
     "nombre": "UriSelect 4, 500g",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "62762",
     "nombre": "Mycoplasma U9 Urea Broth 10x2mL ampules",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "62763",
     "nombre": "Mycoplasma Arginine Broth 10x2mL ampules",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "94197",
     "nombre": "Anti-Theft Lock",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "72316",
     "nombre": "Monolisa Anti-HBc PLUS 480 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "72348",
     "nombre": "Monolisa HBs Ag ULTRA 480 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "92501",
     "nombre": "Geenius HCV Supplemental Assay 20 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "72562",
     "nombre": "Monolisa HCV Ag-Ab ULTRA V2 480 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "72388",
     "nombre": "Genscreen ULTRA HIV Ag-Ab 480 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "62739",
     "nombre": "Mycoplasma Duo Suspension Medium 40x2mL",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "61608",
     "nombre": "Pastorex Meningitis N.meningitidis A 25t",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "61610",
     "nombre": "Pastorex Meningitis N.meningitidis C 25t",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "61613",
     "nombre": "Pastorex Meningitis Streptococcus B 25t",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "61616",
     "nombre": "Pastorex Meningitis H. influenzae b 25t",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "61618",
     "nombre": "Pastorex Meningitis Control Kit 2x25t",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "61729",
     "nombre": "Pastorex Strep Extraction Enzyme 2x10mL",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "72686",
     "nombre": "Platelia Measles IgG 48 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "89601",
     "nombre": "EVOLIS",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "89649",
     "nombre": "EVOETP Assy, System Liquid Container",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "89657",
     "nombre": "EVOETP Bottle 1L, Wash Buffer, Red",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "89661",
     "nombre": "EVOETP Bottle 2L, Wash Buffer, Blue",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "89679",
     "nombre": "EVOLIS Assy, Plate Carrier A1",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "89684",
     "nombre": "EVOETP Filter, Optical, 650nm",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "89685",
     "nombre": "EVOETP Filter, Optical, 690nm",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "89686",
     "nombre": "EVOETP Filter, Optical, 620nm",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "89687",
     "nombre": "EVOETP Filter, Optical, 492nm",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "89688",
     "nombre": "EVOETP Filter, Optical, 450nm",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "89689",
     "nombre": "EVOETP Filter, Optical, 405nm",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "89780",
     "nombre": "EVOLIS Reagent Rack 2, CTRL",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "89934",
     "nombre": "EVOETP Bottle 1L, Wash Buffer, W/ Cap",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "89962",
     "nombre": "EVOETP Filter, Optical, 550nm",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "89964",
     "nombre": "EVOLIS Bottle Set, Disp/Asp",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "91736",
     "nombre": "EVOLIS Holder, Waste Bag, W/ Clamps",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "93501",
     "nombre": "EVOLIS Twin Plus",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "93517",
     "nombre": "ETP Sample Rack",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "93518",
     "nombre": "ETP Control Rack",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "93555",
     "nombre": "ETP Assy, Plate Carrier, 2-PS",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "87530K",
     "nombre": "§KIT IPS 2° GENERATION°",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "82387",
     "nombre": "PW 4X Complete 2L WASTE Bottle with Conn",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "85274",
     "nombre": "PW 4X Hydrophobic Filter 1µm",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "85509",
     "nombre": "PW 40 Complete Trap Vial",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "87042",
     "nombre": "2 L COMPLETE WASH BOTTLE",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "87046",
     "nombre": "PW 40 Manifold Connector O-Rings x3",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "87048",
     "nombre": "PW 4X Removable Microplate Carrier",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "87060",
     "nombre": "PW 41 Clear RINSE Dispensing Tube",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "87062",
     "nombre": "PW 41 Green WASH3 Dispensing Tube",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "87067",
     "nombre": "PW 41 Cap W/Tubing-Conn for 8L WASTE Btl",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "87083",
     "nombre": "PW 40 Trap Vial without Cap",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "87085",
     "nombre": "PW 41 Tube/Conn for Vac Sensing SN Kxxxx",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "89847",
     "nombre": "2 L COMPLETE RINSE BOTTLE",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "61747",
     "nombre": "Pastorex Crypto Plus 60 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "62785",
     "nombre": "Platelia Candida Ab Plus 96 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "72520",
     "nombre": "Syphilis IgM EIA 96 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "67098",
     "nombre": "Moxifloxacin 5µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "67468",
     "nombre": "Ticarcillin-Clav.Acid 75-10µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "67528",
     "nombre": "Quinupristin-Dalfopristin15µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "68948",
     "nombre": "Teicoplanin 30µG 4x50 disks",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "12012123",
     "nombre": "CEFEPIME-CLAV. ACID 30-10μG 4X50 DISKS",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "68250",
     "nombre": "Beta LACTA Test 50 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "72504",
     "nombre": "TPHA 500, 500 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
     "idCatalogo": "72531",
     "nombre": "Syphilis Total Ab 480 tests",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -5329,8 +5329,8 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "62792",
     "nombre": "Platelia Aspergillus Ag Verif Panel",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "BIO-RAD"
   },
   {
@@ -5357,435 +5357,435 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "EI 2668-9601 M",
     "nombre": "Virus Zika IgM",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2668-9601 G",
     "nombre": "Virus Zika IgG",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 266B-9601 M",
     "nombre": "Virus Elisa Dengue (DENV) IgM",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 266B-9601 G",
     "nombre": "Virus Elisa Dengue (DENV) IgG",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2610-9601 M",
     "nombre": "Virus del sarampión IgM.",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2610-9601 G",
     "nombre": "Virus del sarampión IgG",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2532-9601-2 M",
     "nombre": "Virus del herpes simple 2 (HSV-2) IgM",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2532-9601-2 G",
     "nombre": "Virus del herpes simple 2 (HSV-2) IgG",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2531-9601-2 G",
     "nombre": "Virus del herpes simple 1 (HSV-1) IgG",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2531-9601-1 M",
     "nombre": "Virus del herpes simple (HSV-1/2 Pool)",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2630-9601 M",
     "nombre": "Virus de las paperas incluido: absorbent",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2630-9601 G",
     "nombre": "Virus de las paperas",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2650-9601 G",
     "nombre": "Virus de la varicela zoster (VZV)",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2650-9601 M",
     "nombre": "Virus de la varicela zoster (VZV)",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2650-9601 M",
     "nombre": "Virus de la varicela zoster (VZV)",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2590-9601 G",
     "nombre": "Virus de la rubeola IgG",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2590-9601 M",
     "nombre": "Virus de la rub‚ola incl. Absorbente de",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2525-9601 G",
     "nombre": "Virus de la hepatitis E (HEV)",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2525-9601 M",
     "nombre": "Virus de la hepatitis E (HEV)",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2795-9601 A",
     "nombre": "Virus de Epstein-Barr Antígeno temprano",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2795-9601 G",
     "nombre": "Virus Anti-Epstein-Barr",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 266A-9601-1 G",
     "nombre": "Virus anti-dengue tipo 1-4",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 266A-9601-1 M",
     "nombre": "Virus anti-dengue tipo 1-4",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2111-9601 O",
     "nombre": "Treponema pallidum",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2410-9601 M",
     "nombre": "Toxoplasma gondii IGM",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2410-9601 G",
     "nombre": "Toxoplasma gondii IGG",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2050-9601 A",
     "nombre": "Toxina de Bordetella pertussis",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2050-9601 G",
     "nombre": "Toxina de Bordetella pertussis",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2606-9601 A",
     "nombre": "SARS-CoV-2 IgA",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2606-9601-2 M",
     "nombre": "SARS CoV 2 NCP",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2202-9601 G",
     "nombre": "Mycoplasma pneumoniae",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2202-9601 M",
     "nombre": "Mycoplasma pneumoniae",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2531-9601-2 M",
     "nombre": "Herpes simplex virus 1 IgM",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2080-9601 G",
     "nombre": "Helicobacter pylori IgG",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2080-9601 A",
     "nombre": "Helicobacter pylori IgA",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2081-9601 A",
     "nombre": "Helicobacter pylori (CagA) IgA",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2590-9601-1 G",
     "nombre": "Determinación avidez  virus rubéola",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2191-9601 A",
     "nombre": "Clamidia trachomatis",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2191-9601 G",
     "nombre": "Clamidia trachomatis",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2191-9601 M",
     "nombre": "Clamidia trachomatis",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2570-9601 M",
     "nombre": "Citomegalovirus (CMV) IGM",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2570-9601 G",
     "nombre": "Citomegalovirus (CMV) IGG",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2570-9601-L G",
     "nombre": "Citomegalovirus (CMV)",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2189-9601 M",
     "nombre": "Brucella abortus incl. Absorbente de IgG",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2189-9601 G",
     "nombre": "Brucella abortus",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2132-9601-2 G",
     "nombre": "Borrelia plus VIsE",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2132-9601 M",
     "nombre": "Borrelia incl. Absorbente de IgG / RF",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2132-9601-24 O",
     "nombre": "Borrelia burgdorferi VlsE and OspC",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2050-9601 M",
     "nombre": "Bordetella pertussis",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2212-9601 G",
     "nombre": "Anti-Trypanosoma cruzi Elisa IgG",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2311-9601 G",
     "nombre": "Anti-Toxocara IgG",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2606-9601-10 G",
     "nombre": "Anti-SARS-CoV-2 QuantiVac ELISA (IgG)",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2580-9601 M",
     "nombre": "Anti-Parvovirus B19 IgM",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2580-9601 G",
     "nombre": "Anti-Parvovirus B19 IgG",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2580-9601 G",
     "nombre": "Anti-Parvovirus B19 IgG",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2793-9601 G",
     "nombre": "Antígeno nuclear de Epstein-Barr",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2791-9601 G",
     "nombre": "Antígeno de la capside de Epstein-Barr",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2791-9601 M",
     "nombre": "Antígeno de la capside de Epstein Barr",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 293A-9601 M",
     "nombre": "Anti-Chikungunya virus (CHIKV) IgM",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 293A-9601 G",
     "nombre": "Anti-Chikungunya virus (CHIKV) IgG",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2791-9601-L G",
     "nombre": "Ant¡geno de la cápside del virus Epstein",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
     "idCatalogo": "EI 2791-9601-1 G",
     "nombre": "Ant¡geno de la c pside del virus de Epst",
-    "icono": "/assets/img/EnfermedadesInfecciosas.png",
-    "division": "ENFERMEDADES INFECCIOSAS",
+    "icono": "/assets/img/ENF.Infecciosas.png",
+    "division": "ENF. INFECCIOSAS",
     "marca": "EUROIMMUN"
   },
   {
@@ -6236,37 +6236,37 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "1443152",
     "nombre": "Anti-A monoclonal",
-    "division": "Hemoclasificadores (Reaclones)",
+    "division": "Hemoclasificadores",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1443154",
     "nombre": "Anti-B monoclonal",
-    "division": "Hemoclasificadores (Reaclones)",
+    "division": "Hemoclasificadores",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1443153",
     "nombre": "Anti-AB monoclonal",
-    "division": "Hemoclasificadores (Reaclones)",
+    "division": "Hemoclasificadores",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1443155",
     "nombre": "Anti-D (Rho) monoclonal",
-    "division": "Hemoclasificadores (Reaclones)",
+    "division": "Hemoclasificadores",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1443151",
     "nombre": "Albúmina Bovina 30%",
-    "division": "Hemoclasificadores (Reaclones)",
+    "division": "Hemoclasificadores",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1443156",
     "nombre": "Suero Anti-humano (Coombs)",
-    "division": "Hemoclasificadores (Reaclones)",
+    "division": "Hemoclasificadores",
     "marca": "Wiener Lab"
   },
   {
@@ -6392,685 +6392,685 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "1840107",
     "nombre": "Uricostat enzimático AA líquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1840110",
     "nombre": "Uricostat enzimático AA líquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1690008",
     "nombre": "Albúmina AA",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1021404",
     "nombre": "Amilasa 405 AA líquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009693",
     "nombre": "Ammonia",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1120007",
     "nombre": "Bilirrubina Directa AA líquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1120008",
     "nombre": "Bilirrubina Total AA líquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1152004",
     "nombre": "Ca-color Arsenazo III AA",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1492361",
     "nombre": "UIBC/TIBC AA líquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1220114",
     "nombre": "Colestat enzimático AA líquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1220222",
     "nombre": "Colestat enzimático AA líquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1220231",
     "nombre": "HDL Colesterol monofase AA v.2",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1220239",
     "nombre": "HDL Colesterol monofase AA v.2 (sin calibrador)",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1220229",
     "nombre": "HDL Cholesterol Fast 40 ml (sin calibrador)",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1220233",
     "nombre": "HDL Cholesterol Fast 80 ml (sin calibrador)",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1220220",
     "nombre": "LDL Colesterol monofase AA",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1241403",
     "nombre": "Colinesterasa AA",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1999704",
     "nombre": "Cholinesterase",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1271360",
     "nombre": "CK NAC UV AA líquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1271361",
     "nombre": "CK-MB NAC UV AA líquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1260360",
     "nombre": "Creatinina cinética AA líquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1260362",
     "nombre": "Creatinina enzimática AA líquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1351402",
     "nombre": "Fosfatasa Acida Total y Prostática cinética",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1361402",
     "nombre": "ALP 405 AA liquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1382321",
     "nombre": "Fosfatemia UV AA",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1421404",
     "nombre": "gG--test cinética AA líquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1400060",
     "nombre": "Glicemia enzimática AA liquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1752360",
     "nombre": "GOT (AST) UV AA líquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1762360",
     "nombre": "GPT (ALT) UV AA líquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1492360",
     "nombre": "Fer-color AA liquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009365",
     "nombre": "Homocysteine",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1999795",
     "nombre": "Lactate",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1521304",
     "nombre": "LDH-P UV AA líquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009284",
     "nombre": "Lipasa AA líquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1999803",
     "nombre": "Magnesium CPZ",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1580001",
     "nombre": "Mg color AA",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1690007",
     "nombre": "Proti U/LCR",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1690009",
     "nombre": "Proteínas Totales AA",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1780111",
     "nombre": "TG Color GPO/PAP AA líquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1780112",
     "nombre": "TG Color GPO/PAP AA líquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1810324",
     "nombre": "Urea UV cinética AA líquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1810328",
     "nombre": "Urea UV cinética AA líquida",
-    "division": "Química Clínica (Línea Líquida)",
+    "division": "Química Clínica ",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009803",
     "nombre": "Glicemia Enzimática AA Líquida",
-    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "division": "Línea Automatizada CM200 y CM250",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009807",
     "nombre": "Urea UV Cinética AA Liquida",
-    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "division": "Línea Automatizada CM200 y CM250",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009810",
     "nombre": "Creatinina Cinética AA Líquida",
-    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "division": "Línea Automatizada CM200 y CM250",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009808",
     "nombre": "Uricostat Enzimático AA Liquida",
-    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "division": "Línea Automatizada CM200 y CM250",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009802",
     "nombre": "Colestat Enzimático AA Líquida",
-    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "division": "Línea Automatizada CM200 y CM250",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009806",
     "nombre": "TG Color GPO/PAP AA Líquida",
-    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "division": "Línea Automatizada CM200 y CM250",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009804",
     "nombre": "HDL Cholesterol fast",
-    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "division": "Línea Automatizada CM200 y CM250",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009811",
     "nombre": "GOT (AST) UV AA Liquida",
-    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "division": "Línea Automatizada CM200 y CM250",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009812",
     "nombre": "GPT (ALT) UV AA Líquida",
-    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "division": "Línea Automatizada CM200 y CM250",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009805",
     "nombre": "Proteínas Totales AA",
-    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "division": "Línea Automatizada CM200 y CM250",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009801",
     "nombre": "Albúmina AA",
-    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "division": "Línea Automatizada CM200 y CM250",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009809",
     "nombre": "ALP 405 AA líquida",
-    "division": "Línea Automatizada CM200 y CM250 (pedidos programados)",
+    "division": "Línea Automatizada CM200 y CM250",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008158",
     "nombre": "Glicemia enzimática AA líquida (sustituye al 1008138)",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008108",
     "nombre": "Urea UV cinética AA líquida",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008107",
     "nombre": "Creatinina cinética AA líquida",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008109",
     "nombre": "Uricostat enzimático AA líquida",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008157",
     "nombre": "Colestat enzimático AA liquida (sustituye al 1008136)",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008160",
     "nombre": "TG Color GPO/PAP AA líquida (sustituye al 1008141)",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008102",
     "nombre": "HDL Cholesterol fast",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008103",
     "nombre": "LDL Colesterol monofase AA",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008111",
     "nombre": "GOT (AST) UV AA líquida",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008112",
     "nombre": "GPT (ALT) UV AA liquida",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008115",
     "nombre": "Bilirrubina Total AA líquida",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008116",
     "nombre": "Bilirrubina Directa AA liquida",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008110",
     "nombre": "ALP 405 AA líquida",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008142",
     "nombre": "Amilasa 405 AA líquida",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008159",
     "nombre": "Proteinas totales AA (sustituye al 1008139)",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008156",
     "nombre": "Albúmina AA (sustituye 1008135)",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008162",
     "nombre": "Ca-Color Arsenazo III AA (sustituye al 1008143)",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008163",
     "nombre": "Fosfatemia UV AA (1008144)",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008145",
     "nombre": "Mg-Color AA",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008128",
     "nombre": "Magnesium CPZ",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008114",
     "nombre": "LDH-P UV AA líquida",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008113",
     "nombre": "yG--test cinética AA líquida",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008118",
     "nombre": "CK-MB NAC UV AA líquida",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008119",
     "nombre": "CK-NAC UV AA líquida",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008161",
     "nombre": "Proti U/LCR (sustituye 1008140)",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008122",
     "nombre": "Fer-color AA líquida",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008123",
     "nombre": "UIBC/TIBC AA líquida",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008152",
     "nombre": "Lipasa AA liquida",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008120",
     "nombre": "Cholinesterase",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008146",
     "nombre": "Amonia",
-    "division": "Línea Dedicada CM Series (CM160, CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009601",
     "nombre": "Albúmina AA",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009602",
     "nombre": "ALP 405 AA líquida",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009603",
     "nombre": "Amilasa 405 AA líquida",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009604",
     "nombre": "Bilirrubina Directa AA líquida",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009605",
     "nombre": "Bilirrubina Total AA líquida",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009606",
     "nombre": "Ca Color Arsenazo III AA",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009607",
     "nombre": "Cholinesterase",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009608",
     "nombre": "CK-MB NAC UV AA líquida",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009609",
     "nombre": "CK NAC UV AA liquida",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009610",
     "nombre": "Colestat enzimático AA líquido",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009611",
     "nombre": "Creatinina cinética AA líquida",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009613",
     "nombre": "Fer Color AA líquida",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009614",
     "nombre": "Fosfatemia UV AA",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009616",
     "nombre": "gG--test cinética AA liquida",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009617",
     "nombre": "Glicemia enzimática AA líquida",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009619",
     "nombre": "GOT (AST) UV AA líquida",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009620",
     "nombre": "GPT (ALT) UV AA líquida",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009702",
     "nombre": "HDL Colesterol monofase AA v.2",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009626",
     "nombre": "LDH-P UV AA líquida",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009627",
     "nombre": "LDL Colesterol monofase AA",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009628",
     "nombre": "Lipasa AA líquida",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009629",
     "nombre": "Magnesium CPZ",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009630",
     "nombre": "Proteínas Totales AA",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009631",
     "nombre": "Proti U/LCR",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009632",
     "nombre": "TG Color GPO/PAP AA liquida",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009633",
     "nombre": "UIBC/TIBC AA líquida",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009634",
     "nombre": "Urea UV cinética AA líquida",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009635",
     "nombre": "Uricostat enzimático AA líquida",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009669",
     "nombre": "Fosfatasa Acida Total y Prostática cinética",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009623",
     "nombre": "Homocysteine",
-    "division": "Línea Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
@@ -7190,193 +7190,193 @@ export class Productos implements AfterViewInit, OnInit {
   {
     "idCatalogo": "1008126",
     "nombre": "HbA1c Turbitest AA v.2",
-    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Turbidimetría Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008147",
     "nombre": "ASO látex Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Turbidimetría Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008106",
     "nombre": "FR látex Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Turbidimetría Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008100",
     "nombre": "CRP hs Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Turbidimetría Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008133",
     "nombre": "IgG Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Turbidimetría Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008132",
     "nombre": "IgA Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Turbidimetría Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008134",
     "nombre": "IgM Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Turbidimetría Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008101",
     "nombre": "IgE Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Turbidimetría Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008130",
     "nombre": "C3 Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Turbidimetría Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008131",
     "nombre": "C4 Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Turbidimetría Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008104",
     "nombre": "Ferritin Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Turbidimetría Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008127",
     "nombre": "TRF Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Turbidimetría Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008165",
     "nombre": "D dimer Turbitest AAC/CAL",
-    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Turbidimetría Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008124",
     "nombre": "Microalbúmina Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Turbidimetría Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008150",
     "nombre": "Cystatin C Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Turbidimetría Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008117",
     "nombre": "Lactate",
-    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Turbidimetría Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1008125",
     "nombre": "PCR Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CM Series (CM260, CM260i, CM320, CM320i)",
+    "division": "Línea Turbidimetría Dedicada CM Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009641",
     "nombre": "ASO látex Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Turbidimetría Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009648",
     "nombre": "FR látex Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Turbidimetría Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009677",
     "nombre": "CRP HS Turbitest AA - CMD",
-    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Turbidimetría Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009667",
     "nombre": "IgA Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Turbidimetría Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009652",
     "nombre": "IgG Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Turbidimetría Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009653",
     "nombre": "IgM Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Turbidimetría Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009643",
     "nombre": "C3 Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Turbidimetría Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009644",
     "nombre": "C4 Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Turbidimetría Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009651",
     "nombre": "HbA1c v2 Turb AA",
-    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Turbidimetría Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1999701",
     "nombre": "Reactivo Hemolizante",
-    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Turbidimetría Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009656",
     "nombre": "Microalbúmina Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Turbidimetría Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009646",
     "nombre": "Cystatin C Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Turbidimetría Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1009659",
     "nombre": "TRF Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Turbidimetría Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1513267",
     "nombre": "IgE Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Turbidimetría Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
     "idCatalogo": "1999747",
     "nombre": "Ferritin Turbitest AA",
-    "division": "Línea Turbidimetría Dedicada CMD Series (CMD600i, CMD600i X1 y CMD800i)",
+    "division": "Línea Turbidimetría Dedicada CMD Series",
     "marca": "Wiener Lab"
   },
   {
@@ -8583,154 +8583,154 @@ export class Productos implements AfterViewInit, OnInit {
     "nombre": "Testosterona Libre",
     "icono": "/assets/img/Endocrinologia.png",
     "division": "Endocrinología",
-    "marca": "Dimeditec"
+    "marca": "Demeditec"
   },
   {
     "idCatalogo": "DEH3322",
     "nombre": "17-OH-Progesterona",
     "icono": "/assets/img/Endocrinologia.png",
     "division": "Endocrinología",
-    "marca": "Dimeditec"
+    "marca": "Demeditec"
   },
   {
     "idCatalogo": "DEH3344",
     "nombre": "DHEA",
     "icono": "/assets/img/Endocrinologia.png",
     "division": "Endocrinología",
-    "marca": "Dimeditec"
+    "marca": "Demeditec"
   },
   {
     "idCatalogo": "DE3265",
     "nombre": "Androstenediona",
     "icono": "/assets/img/Endocrinologia.png",
     "division": "Endocrinología",
-    "marca": "Dimeditec"
+    "marca": "Demeditec"
   },
   {
     "idCatalogo": "DEE8100",
     "nombre": "Metanefrina en Plasma",
     "icono": "/assets/img/Endocrinologia.png",
     "division": "Endocrinología",
-    "marca": "Dimeditec"
+    "marca": "Demeditec"
   },
   {
     "idCatalogo": "DEE007",
     "nombre": "Leptin",
     "icono": "/assets/img/Endocrinologia.png",
     "division": "Endocrinología",
-    "marca": "Dimeditec"
+    "marca": "Demeditec"
   },
   {
     "idCatalogo": "DE5761",
     "nombre": "Dihidrotestosterona (DHT)",
     "icono": "/assets/img/Endocrinologia.png",
     "division": "Endocrinología",
-    "marca": "Dimeditec"
+    "marca": "Demeditec"
   },
   {
     "idCatalogo": "DEE1900",
     "nombre": "5-HIAA ELISA",
     "icono": "/assets/img/Endocrinologia.png",
     "division": "Endocrinología",
-    "marca": "Dimeditec"
+    "marca": "Demeditec"
   },
   {
     "idCatalogo": "DEE8900",
     "nombre": "Serotonina ELISA",
     "icono": "/assets/img/Endocrinologia.png",
     "division": "Endocrinología",
-    "marca": "Dimeditec"
+    "marca": "Demeditec"
   },
   {
     "idCatalogo": "DE7430",
     "nombre": "Anticuerpos anti-insulina",
     "icono": "/assets/img/DiagnosticoAutoinmune.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "Dimeditec"
+    "marca": "Demeditec"
   },
   {
     "idCatalogo": "DE7470",
     "nombre": "Cribado de Anticuerpos anti -fosfolipidos (IgG/IgM)",
     "icono": "/assets/img/DiagnosticoAutoinmune.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "Dimeditec"
+    "marca": "Demeditec"
   },
   {
     "idCatalogo": "100-01",
     "nombre": "Secretoneurina",
     "icono": "/assets/img/DiagnosticoAutoinmune.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "Dimeditec"
+    "marca": "Demeditec"
   },
   {
     "idCatalogo": "DEE6600",
     "nombre": "3-CAT ELISA",
     "icono": "/assets/img/DiagnosticoAutoinmune.png",
     "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "Dimeditec"
+    "marca": "Demeditec"
   },
   {
     "idCatalogo": "DE4434",
     "nombre": "INF-gamma humano",
     "icono": "/assets/img/Citocinas.png",
     "division": "Citocinas",
-    "marca": "Dimeditec"
+    "marca": "Demeditec"
   },
   {
     "idCatalogo": "DE4640",
     "nombre": "Interleucina-6 humana (IL-6)",
     "icono": "/assets/img/Citocinas.png",
     "division": "Citocinas",
-    "marca": "Dimeditec"
+    "marca": "Demeditec"
   },
   {
     "idCatalogo": "DE4641",
     "nombre": "TNF-alfa humano",
     "icono": "/assets/img/Citocinas.png",
     "division": "Citocinas",
-    "marca": "Dimeditec"
+    "marca": "Demeditec"
   },
   {
     "idCatalogo": "DE4700",
     "nombre": "Interleucina-8 humana ELISA",
     "icono": "/assets/img/Citocinas.png",
     "division": "Citocinas",
-    "marca": "Dimeditec"
+    "marca": "Demeditec"
   },
   {
     "idCatalogo": "DEASCG0020",
     "nombre": "Ascaris lumbricoides (IgG)",
     "icono": "/assets/img/DiagnosticoInfeccioso.png",
     "division": "Diagnóstico Infeccioso",
-    "marca": "Dimeditec"
+    "marca": "Demeditec"
   },
   {
     "idCatalogo": "DETAEG0420",
     "nombre": "Taenia solium (IgG)",
     "icono": "/assets/img/DiagnosticoInfeccioso.png",
     "division": "Diagnóstico Infeccioso",
-    "marca": "Dimeditec"
+    "marca": "Demeditec"
   },
   {
     "idCatalogo": "DETRIG0480",
     "nombre": "Trichinella spiralis (IgG)",
     "icono": "/assets/img/DiagnosticoInfeccioso.png",
     "division": "Diagnóstico Infeccioso",
-    "marca": "Dimeditec"
+    "marca": "Demeditec"
   },
   {
     "idCatalogo": "DENO0114",
     "nombre": "Chagas (Trypanosoma cruzi) (IgG)",
     "icono": "/assets/img/DiagnosticoInfeccioso.png",
     "division": "Diagnóstico Infeccioso",
-    "marca": "Dimeditec"
+    "marca": "Demeditec"
   },
   {
     "idCatalogo": "DE4247",
     "nombre": "Epstein-Barr Virus (EBNA-1) (IgM)",
     "icono": "/assets/img/DiagnosticoInfeccioso.png",
     "division": "Diagnóstico Infeccioso",
-    "marca": "Dimeditec"
+    "marca": "Demeditec"
   },
   {
     "idCatalogo": "302-103",
@@ -8741,255 +8741,31 @@ export class Productos implements AfterViewInit, OnInit {
   },
   {
     "idCatalogo": "901-048A | 901-096A",
-    "nombre": "GENTiTM Kit avanzado de extracción de AND genómico a partir de varias muestras clínicas incluyendo tejidos.",
+    "nombre": "GENTiTM Kit avanzado de extracción de AND",
     "icono": "/assets/img/Molecular.png",
     "division": "Molecular",
     "marca": "GenieAll"
   },
   {
     "idCatalogo": "902-048 | 902-096",
-    "nombre": "GENTiTM Viral ADN/ARN Kit avanzado de extracción de ADN y ARN viral, junto con el equipo de extracción automática avanzada GENTiTM basado en perlas magnéticas.",
+    "nombre": "GENTiTM Viral ADN/ARN",
     "icono": "/assets/img/Molecular.png",
     "division": "Molecular",
     "marca": "GenieAll"
   },
   {
     "idCatalogo": "903-048A | 903-096A",
-    "nombre": "GENTiTM Kit avanzado de extracción de ADN sanguíneo a partir de sangre entera, plasma, suero, capa leucocitaria, fluido libre de células, fluidos corporales, muestras de sangre infectadas con virus o hisopados.",
+    "nombre": "GENTiTM Kit",
     "icono": "/assets/img/Molecular.png",
     "division": "Molecular",
     "marca": "GenieAll"
   },
   {
     "idCatalogo": "108-101 | 108-152 | 108-226 | 108-201 | 108-310 | 108-326",
-    "nombre": "Exgene Clinic SV Kit para el aislamiento de ADN total (genómico, mitocondrial, bacterial, parásitos o ADN viral) de tejidos, sangre entera o fluidos corporales.",
+    "nombre": "Exgene Clinic SV Kit",
     "icono": "/assets/img/Molecular.png",
     "division": "Molecular",
     "marca": "GenieAll"
-  },
-  {
-    "idCatalogo": "IS-4600",
-    "nombre": "IDS Cortisol",
-    "icono": "/assets/img/Endocrinologia.png",
-    "division": "Endocrinología",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-4620",
-    "nombre": "IDS Set Calibrador de Cortisol",
-    "icono": "/assets/img/Endocrinologia.png",
-    "division": "Endocrinología",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-5130",
-    "nombre": "IDS-iSYS 17-OH Progesterona (Set de control)",
-    "icono": "/assets/img/Endocrinologia.png",
-    "division": "Endocrinología",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-5100",
-    "nombre": "IDS-iSYS 17-OH Progesterona",
-    "icono": "/assets/img/Endocrinologia.png",
-    "division": "Endocrinología",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-5130",
-    "nombre": "IDS-iSYS 17-OH Progesterona (Kit)",
-    "icono": "/assets/img/Endocrinologia.png",
-    "division": "Endocrinología",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-3700",
-    "nombre": "IDS-iSYS Hormona del crecimiento humana (hGH)",
-    "icono": "/assets/img/Endocrinologia.png",
-    "division": "Endocrinología",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-5300",
-    "nombre": "IDS-iSYS Testosterona libre",
-    "icono": "/assets/img/Endocrinologia.png",
-    "division": "Endocrinología",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-3900",
-    "nombre": "IDS-iSYS Factor de crecimiento semejante a la insulina tipo I (IGF-I)",
-    "icono": "/assets/img/Endocrinologia.png",
-    "division": "Endocrinología",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-ID5001",
-    "nombre": "IDS TOXO IgG",
-    "icono": "/assets/img/DiagnosticoInfeccioso.png",
-    "division": "Diagnóstico Infeccioso",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-ID5002",
-    "nombre": "IDS TOXO IgM",
-    "icono": "/assets/img/DiagnosticoInfeccioso.png",
-    "division": "Diagnóstico Infeccioso",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-AI1002",
-    "nombre": "IDS Cribado de ENA",
-    "icono": "/assets/img/DiagnosticoAutoinmune.png",
-    "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-AI1801",
-    "nombre": "IDS Anticuerpos Anti-mitocondriales (AMA-M2)",
-    "icono": "/assets/img/DiagnosticoAutoinmune.png",
-    "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-AI1901",
-    "nombre": "IDS Anticuerpos Anti-tiroglobulina (anti-Tg)",
-    "icono": "/assets/img/DiagnosticoAutoinmune.png",
-    "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-AI1109",
-    "nombre": "IDS Jo-1",
-    "icono": "/assets/img/DiagnosticoAutoinmune.png",
-    "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-AI1110",
-    "nombre": "IDS Centrómero B",
-    "icono": "/assets/img/DiagnosticoAutoinmune.png",
-    "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-AI1108",
-    "nombre": "IDS Anticuerpos Anti-Scl-70",
-    "icono": "/assets/img/DiagnosticoAutoinmune.png",
-    "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-AI1302",
-    "nombre": "IDS Gliadina Desamidada IgG",
-    "icono": "/assets/img/DiagnosticoAutoinmune.png",
-    "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-AI1108",
-    "nombre": "IDS Gliadina Desamidada IgM",
-    "icono": "/assets/img/DiagnosticoAutoinmune.png",
-    "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-AI1103",
-    "nombre": "IDS SS-A-Ro 52 kDa",
-    "icono": "/assets/img/DiagnosticoAutoinmune.png",
-    "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-AI1104",
-    "nombre": "IDS SS-A-Ro 60kDa",
-    "icono": "/assets/img/DiagnosticoAutoinmune.png",
-    "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-5330",
-    "nombre": "Set de control de testosterona gratuito",
-    "icono": "/assets/img/DiagnosticoAutoinmune.png",
-    "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-4630",
-    "nombre": "Set de control de cortisol",
-    "icono": "/assets/img/DiagnosticoAutoinmune.png",
-    "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-AI1030",
-    "nombre": "Set de control de pantalla IDS ANA",
-    "icono": "/assets/img/DiagnosticoAutoinmune.png",
-    "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-AI1501",
-    "nombre": "IDS Cardiolipina IgG",
-    "icono": "/assets/img/DiagnosticoAutoinmune.png",
-    "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-AI1502",
-    "nombre": "IDS β2-Glicoproteína I IgG",
-    "icono": "/assets/img/DiagnosticoAutoinmune.png",
-    "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-AI1601",
-    "nombre": "IDS Cardiolipina IgM",
-    "icono": "/assets/img/DiagnosticoAutoinmune.png",
-    "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-AI1602",
-    "nombre": "IDS β2-Glicoproteína I IgM",
-    "icono": "/assets/img/DiagnosticoAutoinmune.png",
-    "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-AI1105",
-    "nombre": "IDS SS-B-La",
-    "icono": "/assets/img/DiagnosticoAutoinmune.png",
-    "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-AI1101",
-    "nombre": "IDS dsDNA IgG",
-    "icono": "/assets/img/DiagnosticoAutoinmune.png",
-    "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-AI1902",
-    "nombre": "IDS Anticuerpos Antiperoxidasa Tiroidea Anti-TPO",
-    "icono": "/assets/img/DiagnosticoAutoinmune.png",
-    "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-AI1401",
-    "nombre": "IDS t-TG IgG",
-    "icono": "/assets/img/DiagnosticoAutoinmune.png",
-    "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "ids"
-  },
-  {
-    "idCatalogo": "IS-AI1303",
-    "nombre": "IDS t-TG IgA",
-    "icono": "/assets/img/DiagnosticoAutoinmune.png",
-    "division": "DIAGNÓSTICO AUTOINMUNE",
-    "marca": "ids"
   }
 
   ];
@@ -9033,6 +8809,56 @@ export class Productos implements AfterViewInit, OnInit {
   toggleDivision(division: string): void {
     this.divisionFilter = this.divisionFilter === division ? null : division;
     this.currentPage = 1;
+  }
+
+  /** Icono + color (clases Materialize) por división. */
+  private divisionMeta: Record<string, { icon: string; color: string }> = {
+    'SISTEMAS CLINICOS': { icon: 'fa-vials', color: 'light-green accent-4' },
+    'ENF. INFECCIOSAS': { icon: 'fa-virus-covid', color: 'yellow accent-4' },
+    'CONTROL DE CALIDAD': { icon: 'fa-clipboard-check', color: 'deep-purple accent-1' },
+    'INMUNOHEMATOLOGÍA': { icon: 'fa-droplet', color: 'red darken-3' },
+    'DIAGNÓSTICO AUTOINMUNE': { icon: 'fa-shield-virus', color: 'cyan darken-1' },
+    'BACTERIOLOGÍA': { icon: 'fa-bacterium', color: 'orange darken-2' },
+    'EQUIPOS': { icon: 'fa-microscope', color: 'blue-grey darken-1' },
+    'Banco de Sangre': { icon: 'fa-droplet', color: 'red darken-1' },
+    'Calibradores': { icon: 'fa-sliders', color: 'teal darken-1' },
+    'Citocinas': { icon: 'fa-dna', color: 'pink darken-1' },
+    'Coagulación': { icon: 'fa-droplet', color: 'red accent-4' },
+    'Consumibles': { icon: 'fa-box', color: 'brown darken-1' },
+    'Controles': { icon: 'fa-clipboard-check', color: 'deep-purple darken-1' },
+    'Diagnóstico Infeccioso': { icon: 'fa-virus', color: 'amber darken-3' },
+    'Endocrinología': { icon: 'fa-flask', color: 'purple darken-1' },
+    'Eritrosedimentación': { icon: 'fa-vial', color: 'red lighten-1' },
+    'Hematología': { icon: 'fa-droplet', color: 'red darken-4' },
+    'Hemoclasificadores': { icon: 'fa-vials', color: 'pink darken-2' },
+    'LISA - TRACKER': { icon: 'fa-desktop', color: 'indigo darken-1' },
+    'Línea Automatizada CM200 y CM250': { icon: 'fa-robot', color: 'blue darken-2' },
+    'Línea Automatizada Equipo Kone': { icon: 'fa-robot', color: 'blue darken-3' },
+    'Línea Automatizada Equipos CB/BT': { icon: 'fa-robot', color: 'blue darken-1' },
+    'Línea Dedicada CM Series': { icon: 'fa-gears', color: 'blue-grey darken-2' },
+    'Línea Dedicada CMD Series': { icon: 'fa-gears', color: 'blue-grey darken-3' },
+    'Línea Turbidimetría Dedicada CM Series': { icon: 'fa-wave-square', color: 'cyan darken-2' },
+    'Línea Turbidimetría Dedicada CMD Series': { icon: 'fa-wave-square', color: 'cyan darken-3' },
+    'Línea de Turbidimetría': { icon: 'fa-wave-square', color: 'cyan darken-1' },
+    'Marcadores Tumorales': { icon: 'fa-ribbon', color: 'pink accent-3' },
+    'Molecular': { icon: 'fa-dna', color: 'green darken-2' },
+    'Pruebas de Látex': { icon: 'fa-circle-dot', color: 'orange darken-1' },
+    'Química Clínica': { icon: 'fa-flask', color: 'deep-orange darken-1' },
+    'Urianálisis': { icon: 'fa-flask-vial', color: 'amber darken-2' },
+  };
+
+  /** Divisiones únicas presentes en el arreglo de productos, ordenadas. */
+  get divisiones(): string[] {
+    return [...new Set(this.productos.map(p => p.division))]
+      .sort((a, b) => a.trim().localeCompare(b.trim()));
+  }
+
+  divisionIcon(division: string): string {
+    return this.divisionMeta[division.trim()]?.icon ?? 'fa-layer-group';
+  }
+
+  divisionColor(division: string): string {
+    return this.divisionMeta[division.trim()]?.color ?? 'blue-grey';
   }
 
   sidenavOpen = false;
