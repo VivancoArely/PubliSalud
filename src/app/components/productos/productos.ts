@@ -8863,11 +8863,18 @@ export class Productos implements AfterViewInit, OnInit {
 
   /** Texto a mostrar bajo el círculo (con cortes manuales para no encimarse). */
   private divisionLabels: Record<string, string> = {
-    'INMUNOHEMATOLOGÍA': 'INMUNO-\nHEMATOLOGÍA',
+    'INMUNOHEMATOLOGÍA': 'Inmuno-\nHematología',
   };
 
   divisionLabel(division: string): string {
-    return this.divisionLabels[division.trim()] ?? division.trim();
+    return this.divisionLabels[division.trim()] ?? this.titleCase(division.trim());
+  }
+
+  /** "CONTROL DE CALIDAD" -> "Control De Calidad" */
+  private titleCase(text: string): string {
+    return text
+      .toLowerCase()
+      .replace(/(^|[\s.\-/])([a-záéíóúñ])/g, (_, sep, ch) => sep + ch.toUpperCase());
   }
 
   divisionIcon(division: string): string {
